@@ -1,0 +1,47 @@
+/* Estilos CSS para el título, el logo y la cenefa */
+#logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1;
+    height: 48px; /* Ajusta la altura del logo según tus preferencias */
+}
+
+#logo img {
+    height: 100%;
+}
+
+#titulo {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+    color: #333;
+    position: relative;
+    z-index: 1;
+}
+
+.gray-text {
+    color: #999;
+    font-family: "Helvetica", sans-serif;
+}
+
+.header-banner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #cc1616;
+    z-index: 0;
+}
+
+.header-banner::before {
+    content: "";
+    position: absolute;
+    top: -40px;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #da3636;
+}
