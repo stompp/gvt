@@ -12,17 +12,30 @@
 }
 
 #titulo {
-    font-size: 24px;
+    font-size: 24pt;
     font-weight: bold;
-    font-family: "Arial", sans-serif;
+    font-family: "Cambria", sans-serif;
     color: #333;
     position: relative;
     z-index: 1;
+    fill:#77777a; 
+    letter-spacing:0; 
+    word-spacing:0; 
+    kerning:0;
+    font-family:cambria;
+    font-size:24pt;
+    font-size-adjust:0.210526; 
+    font-weight:600;
+    font-style:normal;
+    font-stretch:0;
+    text-anchor:middle"
+    
 }
 
 .gray-text {
+    font-size: 18px
     color: #999;
-    font-family: "Helvetica", sans-serif;
+    font-family: "Cambria", sans-serif;
 }
 
 .header-banner {
