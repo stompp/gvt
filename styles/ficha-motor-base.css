@@ -1,0 +1,47 @@
+.fuente-gvt {
+	color: #77777a;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+
+.logo-titulo {
+	position: absolute;
+	top: 10px;
+	right: -2px;
+	z-index: 1;
+	width:128px;
+	height: 128px; /* Ajusta la altura del logo según tus preferencias */
+}
+
+.logo-titulo img {
+    /*height: 100%;*/
+	width: 100%;
+}
+
+
+.titulo-ficha {
+	font-size: 28pt;
+	font-weight: normal;
+	text-align: center;  
+}
+
+
+.lista-parametros li{
+	font-size: 24px;
+	list-style-type: none;
+	
+}
+
+
+.container-motor {
+	position: relative;
+	display: inline-block;
+}
+
+
+.container-motor span{
+	font-size: 18px;
+	position: absolute; 
+	z-index: 1;
+	
+}
