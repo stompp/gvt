@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <base href="https://stompp.github.io/gvt/" target="_blank" />
+  <title>Scheda Tecnica</title>
+  <link rel="stylesheet" type="text/css" href="styles/ficha-motor-base.css">
+  <link rel="stylesheet" type="text/css" href="styles/motores-fichas.css">
+</head>
+
+
+<body class="fuente-gvt">
+
+  <div class="logo-titulo">
+    <img src="static/img/gvtlogo.jpg">
+  </div>
+  <h1 class="titulo-ficha" id="titulo-ficha">Scheda Tecnica<br>{{ data['nombre'] }}</h1>
+
+  <br><br><br>
+
+
+  <ul class="lista-parametros">
+    <li>Codice: {{ data['codigo'] }}.</li>
+    <li>Alimentazione: {{ data['alimentacion'] }}.</li>
+    <li>Potenza: {{ data['potenza'] }} W.</li>
+    <li>Consumo: {{ data['corriente'] }} A.</li>
+    <li>Coppia: {{ data['par'] }} Nm.</li>
+    <li>Velocità: {{ data['rpm'] }} rpm.</li>
+    <li>Corsa Massima: Senza limiti.</li>
+    <li>Funzionamento Continuo: {{ data['tiempo_max'] }} minuti.</li>
+    <li>Protezione: IP{{ data['ip'] }}.</li>
+    <li>Misure:</li>
+    <ul>
+      <li>A: {{ data['diametro']}} mm.</li>
+      <li>B: {{ data['ancho_cabeza'] }} mm.</li>
+      <li>C: {{ data['longitud_cabeza'] }} mm.</li>
+      <li>D: {{ data['longitud']}} mm.</li>
+      <li>D1: {{ data['d1']}} mm.</li>
+      <li>D2: {{ data['longitud_perno']}} mm.</li>
+    </ul>
+
+  </ul>
+
+  <p>&nbsp;</p>
+
+  <div class="container-motor motor">
+    <img src="static/img/motor.png" class="motor-img">
+
+    <span class="medida-a">A:{{ data['diametro']}}</span>
+    <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
+    <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
+    <span class="medida-d1">D1:{{ data['d1']}}</span>
+    <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
+
+  </div>
+</body>
+
+</html>

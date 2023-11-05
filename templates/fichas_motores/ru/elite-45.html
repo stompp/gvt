@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <base href="https://stompp.github.io/gvt/" target="_blank" />
+  <title>Техническая документация</title>
+  <link rel="stylesheet" type="text/css" href="styles/ficha-motor-base.css">
+  <link rel="stylesheet" type="text/css" href="styles/motores-fichas.css">
+</head>
+
+
+<body class="fuente-gvt">
+
+  <div class="logo-titulo">
+    <img src="static/img/gvtlogo.jpg">
+  </div>
+  <h1 class="titulo-ficha" id="titulo-ficha">Техническая документация<br>{{ data['nombre'] }}</h1>
+
+  <br><br><br>
+
+
+  <ul class="lista-parametros">
+    <li>Код: {{ data['codigo'] }}.</li>
+    <li>Alimentación: {{ data['alimentacion'] }}.</li>
+    <li>Мощность: {{ data['potencia'] }} Вт.</li>
+    <li>Потребление: {{ data['corriente'] }} А.</li>
+    <li>Крутящий момент: {{ data['par'] }} Нм.</li>
+    <li>Скорость: {{ data['rpm'] }} об/мин.</li>
+    <li>Максимальный ход: Без ограничений.</li>
+    <li>Непрерывная работа: {{ data['tiempo_max'] }} минут.</li>
+    <li>Защита: IP{{ data['ip'] }}.</li>
+    <li>Размеры:</li>
+    <ul>
+      <li>A: {{ data['diametro']}} мм.</li>
+      <li>B: {{ data['ancho_cabeza'] }} мм.</li>
+      <li>C: {{ data['longitud_cabeza'] }} мм.</li>
+      <li>D: {{ data['longitud']}} мм.</li>
+      <li>D1: {{ data['d1']}} мм.</li>
+      <li>D2: {{ data['longitud_perno']}} мм.</li>
+    </ul>
+
+  </ul>
+
+  <p>&nbsp;</p>
+
+  <div class="container-motor motor-elite45">
+    <img src="static/img/motor.png" class="motor-img">
+
+    <span class="medida-a">A:{{ data['diametro']}}</span>
+    <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
+    <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
+    <span class="medida-d1">D1:{{ data['d1']}}</span>
+    <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
+
+  </div>
+</body>
+
+</html>
