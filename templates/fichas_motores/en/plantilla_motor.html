@@ -15,29 +15,29 @@
   <div class="logo-titulo">
     <img src="static/img/gvtlogo.jpg">
   </div>
-  <h1 class="titulo-ficha" id="titulo-ficha">Technical Sheet<br>{{ data['name'] }}</h1>
+  <h1 class="titulo-ficha" id="titulo-ficha">Technical Sheet<br>{{ data['nombre'] }}</h1>
 
   <br><br><br>
 
 
   <ul class="lista-parametros">
-    <li>Code: {{ data['code'] }}.</li>
-    <li>Power Supply: {{ data['power_supply'] }}.</li>
-    <li>Power: {{ data['power'] }} W.</li>
-    <li>Consumption: {{ data['current'] }} A.</li>
-    <li>Torque: {{ data['torque'] }} Nm.</li>
+    <li>Code: {{ data['codigo'] }}.</li>
+    <li>Power Supply: {{ data['alimentacion'] }}.</li>
+    <li>Power: {{ data['potencia'] }} W.</li>
+    <li>Consumption: {{ data['corriente'] }} A.</li>
+    <li>Torque: {{ data['par'] }} Nm.</li>
     <li>Speed: {{ data['rpm'] }} rpm.</li>
-    <li>Maximum Travel: {{ data['max_turns'] }} turns.</li>
-    <li>Continuous Operation: {{ data['max_time'] }} minutes.</li>
+    <li>Maximum Travel: {{ data['vueltas_max'] }} turns.</li>
+    <li>Continuous Operation: {{ data['tiempo_max'] }} minutes.</li>
     <li>Protection: IP{{ data['ip'] }}.</li>
     <li>Dimensions:</li>
     <ul>
-      <li>A: {{ data['diameter']}} mm.</li>
-      <li>B: {{ data['head_width'] }} mm.</li>
-      <li>C: {{ data['head_length'] }} mm.</li>
-      <li>D: {{ data['length']}} mm.</li>
+      <li>A: {{ data['diametro']}} mm.</li>
+      <li>B: {{ data['ancho_cabeza'] }} mm.</li>
+      <li>C: {{ data['longitud_cabeza'] }} mm.</li>
+      <li>D: {{ data['longitud']}} mm.</li>
       <li>D1: {{ data['d1']}} mm.</li>
-      <li>D2: {{ data['bolt_length']}} mm.</li>
+      <li>D2: {{ data['longitud_perno']}} mm.</li>
     </ul>
 
   </ul>
@@ -47,11 +47,11 @@
   <div class="container-motor motor">
     <img src="static/img/motor.png" class="motor-img">
 
-    <span class="medida-a">A:{{ data['diameter']}}</span>
-    <span class="medida-b">B:{{ data['head_width'] }}</span>
-    <span class="medida-c">C:{{ data['head_length'] }}</span>
+    <span class="medida-a">A:{{ data['diametro']}}</span>
+    <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
+    <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
     <span class="medida-d1">D1:{{ data['d1']}}</span>
-    <span class="medida-d2">D2:{{ data['bolt_length']}}</span>
+    <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
 
   </div>
 </body>
