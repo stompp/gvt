@@ -10,7 +10,7 @@
 	right: -2px;
 	z-index: 1;
 	width:128px;
-	height: 128px; /* Ajusta la altura del logo según tus preferencias */
+	height: 128px; 
 }
 
 .logo-titulo img {
@@ -20,14 +20,14 @@
 
 
 .titulo-ficha {
-	font-size: 28pt;
+	font-size: 32pt;
 	font-weight: normal;
 	text-align: center;  
 }
 
 
 .lista-parametros li{
-	font-size: 24px;
+	font-size: 26px;
 	list-style-type: none;
 	
 }
