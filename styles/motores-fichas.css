@@ -3,7 +3,7 @@
 	display: inline;
 	max-width: 100%;
 	height: auto;
-	left:80px
+	/* left:80px */
 
 }
 
@@ -34,12 +34,12 @@
 	display: inline;
 	max-width: 100%;
 	height: auto;
-	left:80px;
+	/* left:80px; */
 
 }
 /*ELITE*/
 .motor-elite45 .medida-a {
-	left: 410px;
+	left: 330px;
 	top: 80px;
 }
 .motor-elite45 .medida-b {
@@ -104,26 +104,23 @@
 }
 
 .motor-elitegsm45 .medida-a {
-	top: 188px;
-	left: 500px;
+	top: 200px;
+	left: 515px;
 	
 }
 .motor-elitegsm45 .medida-b {
-	top: 188px;
+	top: 200px;
 	left: 23px;
 }
 .motor-elitegsm45 .medida-c {
-	top: 100px;
-	left: 170px;
+	top: 103px;
+	left: 161px;
 }
 .motor-elitegsm45 .medida-d1 {
-	top: 72px;
-	left: 170px;
+	top: 65px;
+	left: 515px;
 }
 .motor-elitegsm45 .medida-d2 {
-	top: 72px;
-	left: 800px;
+	top: 65px;
+	left: 833px;
 }
-
-
-

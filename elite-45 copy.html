@@ -12,18 +12,14 @@
     <div class="header-ficha">
       <div class="header-ficha-container-titulo">
         <div class="header-ficha-titulo">
-          Ficha Técnica<br />
+          Ficha Técnica<br>
           {{ data['nombre'] }}
         </div>
       </div>
 
       <div class="header-ficha-container-logo">
         <div class="header-ficha-linea"></div>
-        <img
-          src="static/img/gvtlogo.jpg"
-          alt="Logo"
-          class="header-ficha-logo"
-        />
+        <img src="static/img/gvtlogo.jpg" alt="Logo" class="header-ficha-logo" />
       </div>
     </div>
 
@@ -45,7 +41,7 @@
       <li>Alimentación: {{ data['alimentacion'] }}.</li>
       <li>Potencia: {{ data['potencia'] }} W.</li>
       <li>Consumo: {{ data['corriente'] }} A.</li>
-
+     
       <li>Recorrido Máximo: {{ data['vueltas_max'] }} vueltas.</li>
       <li>Funcionamiento Continuo: {{ data['tiempo_max'] }} minutos.</li>
       <li>Protección: IP{{ data['ip'] }}.</li>
@@ -62,27 +58,17 @@
     </ul>
 
     <p>&nbsp;</p>
-    <div class="container-centrado">
-      <div class="container-motor motor-elitegsm45">
-        <span class="medida-a">A:{{ data['diametro']}}</span>
-        <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
-        <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
-        <span class="medida-d1">D1:{{ data['d1']}}</span>
-        <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
-        <img src="static/img/motor-elite-gsm-45.png" class="motor-img" />
-      </div>
-    </div>
+    <div class="contenedor-centro">
+  <div class="container-motor motor-elite45">
+    <img src="static/img/motor.png" class="motor-img">
 
-    <!-- 
-    <div class="contenedor-centro motor-elitegsm45">
-      <div class="contenedor-imagen ">
-          <img src="static/img/motor-elite-gsm-45.png" alt="Imagen de fondo">
-          <span class="medida-a">A:{{ data['diametro']}}</span>
-          <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
-          <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
-          <span class="medida-d1">D1:{{ data['d1']}}</span>
-          <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
-      </div>
-  </div> -->
-  </body>
+    <span class="medida-a">A:{{ data['diametro']}}</span>
+    <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
+    <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
+    <span class="medida-d1">D1:{{ data['d1']}}</span>
+    <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
+  </div>
+  </div>
+</body>
+
 </html>

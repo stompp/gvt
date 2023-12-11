@@ -1,8 +1,59 @@
 .fuente-gvt {
 	color: #77777a;
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+	
+}
+.header-ficha {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+	/* height: 100px; */
 }
 
+.header-ficha-container-titulo {
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header-ficha-titulo {
+	/* font-size: 24px;
+	font-weight: bold;
+	text-align: center; */
+	font-size: 32pt;
+	font-weight: normal;
+	text-align: center;  
+}
+
+.header-ficha-linea {
+	height: 80px;
+	width: 2px;
+	background-color: grey;
+	margin-right: 10px;
+}
+
+.header-ficha-container-logo {
+	display: flex;
+	align-items: center;
+	height: 100%; 
+	width: auto;
+}
+
+.header-ficha-logo {
+	width: 150px;
+}
+
+
+
+
+
+.titulo-ficha {
+	font-size: 32pt;
+	font-weight: normal;
+	text-align: center;  
+}
 
 .logo-titulo {
 	position: absolute;
@@ -14,33 +65,70 @@
 }
 
 .logo-titulo img {
-    /*height: 100%;*/
 	width: 100%;
 }
 
 
-.titulo-ficha {
-	font-size: 32pt;
-	font-weight: normal;
-	text-align: center;  
-}
+
+
 
 
 .lista-parametros li{
-	font-size: 32px;
+	font-size: 24pt;
 	list-style-type: none;
 	
 }
 
 
+
+.container-centrado {
+	display: flex;
+	justify-content: center; 
+}
 .container-motor {
 	position: relative;
-	display: inline-block;
+	display: flex;
+	align-items: center;
+	
 }
+
 
 
 .container-motor span{
-	font-size: 22px;
+	font-size: 16pt;
 	position: absolute; 
 	z-index: 1;	
+} 
+
+/* 
+
+.contenedor-centro {
+	display: flex;
+	justify-content: center; 
 }
+
+.contenedor-imagen {
+	position: relative;
+	display: inline-block; 
+	
+} */
+
+/* 
+.contenedor-imagen img {
+	display: block; 
+	max-width: 100%; 
+	height: auto;
+	
+}
+.contenedor-imagen span {
+	font-size: 16pt;
+	position: absolute; 
+	z-index: 1;	
+	
+}
+
+
+.texto-sobre-imagen {
+	position: absolute;
+
+} */
