@@ -96,9 +96,9 @@
 .motor-elitegsm45 .motor-img {
 	position:relative;
 	display: inline;
-	max-width: 50%;
+	max-width: 100%;
 	height: auto;
-	left:10px;
+	left:80px;
 	
 }
 
