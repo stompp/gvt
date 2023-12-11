@@ -69,23 +69,59 @@
 
 }
 
-.motor-elite45 .medida-a {
+.motor-elite55 .medida-a {
 	left: 410px;
 	top: 80px;
 }
-.motor-elite45 .medida-b {
+.motor-elite55 .medida-b {
 	top: 77px;
 	left: 13px;
 }
-.motor-elite45 .medida-c {
+.motor-elite55 .medida-c {
 	top: 22px;
 	left: 178px;
 }
-.motor-elite45 .medida-d1 {
+.motor-elite55 .medida-d1 {
 	top: -10px;
 	left: 376px;
 }
-.motor-elite45 .medida-d2 {
+.motor-elite55 .medida-d2 {
 	top: -10px;
 	left: 667px;
 }
+
+
+
+
+.motor-elitegsm45 .motor-img {
+	position:relative;
+	display: inline;
+	max-width: 100%;
+	height: auto;
+	left:80px
+
+}
+
+.motor-elitegsm45 .medida-a {
+	left: 410px;
+	top: 80px;
+}
+.motor-elitegsm45 .medida-b {
+	top: 77px;
+	left: 13px;
+}
+.motor-elitegsm45 .medida-c {
+	top: 22px;
+	left: 178px;
+}
+.motor-elitegsm45 .medida-d1 {
+	top: -10px;
+	left: 376px;
+}
+.motor-elitegsm45 .medida-d2 {
+	top: -10px;
+	left: 667px;
+}
+
+
+
