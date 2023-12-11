@@ -27,7 +27,7 @@
 
 
 .lista-parametros li{
-	font-size: 26px;
+	font-size: 32px;
 	list-style-type: none;
 	
 }
@@ -40,7 +40,7 @@
 
 
 .container-motor span{
-	font-size: 18px;
+	font-size: 22px;
 	position: absolute; 
 	z-index: 1;	
 }

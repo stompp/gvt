@@ -34,7 +34,7 @@
 	display: inline;
 	max-width: 100%;
 	height: auto;
-	left:80px
+	left:80px;
 
 }
 /*ELITE*/
@@ -96,31 +96,32 @@
 .motor-elitegsm45 .motor-img {
 	position:relative;
 	display: inline;
-	max-width: 100%;
+	max-width: 50%;
 	height: auto;
-	left:80px
-
+	left:10px;
+	
 }
 
 .motor-elitegsm45 .medida-a {
-	left: 410px;
-	top: 80px;
+	top: 188px;
+	left: 500px;
+	
 }
 .motor-elitegsm45 .medida-b {
-	top: 77px;
-	left: 13px;
+	top: 188px;
+	left: 23px;
 }
 .motor-elitegsm45 .medida-c {
-	top: 22px;
-	left: 178px;
+	top: 100px;
+	left: 170px;
 }
 .motor-elitegsm45 .medida-d1 {
-	top: -10px;
-	left: 376px;
+	top: 72px;
+	left: 170px;
 }
 .motor-elitegsm45 .medida-d2 {
-	top: -10px;
-	left: 667px;
+	top: 72px;
+	left: 800px;
 }
 
 
