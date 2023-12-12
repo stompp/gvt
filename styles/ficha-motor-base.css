@@ -1,3 +1,4 @@
+
 .fuente-gvt {
 	color: #77777a;
 	font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
@@ -18,7 +19,7 @@
 .header-ficha-tabla-celda-titulo {
 	width: 80%; /* La celda del texto ocupa el 80% del ancho de la tabla */
 
-	border-right: 2px solid #5d5dad; /* Añade una línea vertical negra a la derecha */
+	border-right: 2px solid #77777a; /* Añade una línea vertical negra a la derecha */
 	vertical-align: top; /* Alinea el contenido de la celda en la parte superior */
 		
 	text-align: center; /* Alinea el texto en el centro de la celda */
