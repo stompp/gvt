@@ -17,11 +17,11 @@
 	
 	
 }
-.header-ficha-tabla td{
-	height: var(--alto-titulo);
-}
+/* .header-ficha-tabla td{
+	height: auto;
+} */
 .header-ficha-tabla-celda-titulo {
-	width: 80%; /* La celda del texto ocupa el 80% del ancho de la tabla */
+	width: 90%; /* La celda del texto ocupa el 80% del ancho de la tabla */
 
 	border-right: 2px solid var(--gris-gaviota); /* Añade una línea vertical negra a la derecha */
 	vertical-align: top; /* Alinea el contenido de la celda en la parte superior */
@@ -30,13 +30,13 @@
 	padding: 10px; 
 }
 .header-ficha-tabla-celda-logo {
-	width: 20%; /* La celda de la imagen ocupa el 20% del ancho de la tabla */
+	width: 10%; /* La celda de la imagen ocupa el 20% del ancho de la tabla */
 }
 .header-ficha-tabla-celda-logo img{
 	
 	/* height: 200px; */
-	height: 100%;
-	width:auto;
+	/* height: 100%; */
+	width:100%;
 }
 .header-ficha {
 	display: inline;
