@@ -2,39 +2,29 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <base href="https://stompp.github.io/gvt/" target="_blank" />
+    <!-- <base href="https://stompp.github.io/gvt/" target="_blank" /> -->
     <title>Ficha Técnica</title>
     <link rel="stylesheet" type="text/css" href="styles/ficha-motor-base.css" />
     <link rel="stylesheet" type="text/css" href="styles/motores-fichas.css" />
   </head>
 
   <body class="fuente-gvt">
-    <div class="header-ficha">
-      <div class="header-ficha-container-titulo">
-        <div class="header-ficha-titulo">
-          Ficha Técnica<br />
-          {{ data['nombre'] }}
-        </div>
-      </div>
-
-      <div class="header-ficha-container-logo">
-        <div class="header-ficha-linea"></div>
-        <img
-          src="static/img/gvtlogo.jpg"
-          alt="Logo"
-          class="header-ficha-logo"
-        />
-      </div>
-    </div>
-
-    <!-- <div class="logo-titulo">
-      <img src="static/img/gvtlogo.jpg" />
-    </div>
-    <h1 class="titulo-ficha" id="titulo-ficha">
-      Ficha Técnica<br />{{ data['nombre'] }}
-    </h1> -->
-
-    <!-- <br /><br /><br /> -->
+    <table class="header-ficha-tabla">
+      <tr>
+          <td class="header-ficha-tabla-celda-titulo">
+            <div class="header-ficha-titulo">
+              Ficha Técnica<br />
+              {{ data['nombre'] }}
+            </div>
+              <!-- <p>Aquí va tu texto. Puede ser de varias líneas y se ajustará para ocupar el 80% del espacio disponible en la celda.</p> -->
+              <!-- Agrega más contenido de texto según sea necesario -->
+          </td>
+          <td class="header-ficha-tabla-celda-logo">
+              <img src="static/img/gvtlogo.jpg" >
+          </td>
+      </tr>
+  </table>
+  
     <p>&nbsp;</p>
     <ul class="lista-parametros">
       <li>Código: {{ data['codigo'] }}.</li>

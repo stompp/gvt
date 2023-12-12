@@ -1,48 +1,99 @@
+:root{
+	--gris-gaviota : #77777a;
+	--alto-titulo: 200px
+}
+
 .fuente-gvt {
-	color: #77777a;
+	color: var(--gris-gaviota);
 	font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
 	
 }
+
+.header-ficha-tabla {
+	
+	width: 100%; /* Asegura que la tabla ocupe todo el ancho disponible */
+	border-collapse: collapse; /* Elimina el espacio entre las celdas */
+	padding: 2px;
+	
+	
+}
+.header-ficha-tabla td{
+	height: var(--alto-titulo);
+}
+.header-ficha-tabla-celda-titulo {
+	width: 80%; /* La celda del texto ocupa el 80% del ancho de la tabla */
+
+	border-right: 2px solid var(--gris-gaviota); /* Añade una línea vertical negra a la derecha */
+	vertical-align: top; /* Alinea el contenido de la celda en la parte superior */
+		
+	text-align: center; /* Alinea el texto en el centro de la celda */
+	padding: 10px; 
+}
+.header-ficha-tabla-celda-logo {
+	width: 20%; /* La celda de la imagen ocupa el 20% del ancho de la tabla */
+}
+.header-ficha-tabla-celda-logo img{
+	
+	/* height: 200px; */
+	height: 100%;
+	width:auto;
+}
 .header-ficha {
-	display: flex;
+	display: inline;
 	justify-content: space-between;
 	align-items: center;
 	padding: 10px;
+	width: 100%;
 	/* height: 100px; */
 }
 
 .header-ficha-container-titulo {
-	flex: 1;
-	display: flex;
+	
+	display: inline-block;
 	justify-content: center;
 	align-items: center;
+	width: 80%;
 }
 
 .header-ficha-titulo {
 	/* font-size: 24px;
 	font-weight: bold;
 	text-align: center; */
+	
 	font-size: 32pt;
 	font-weight: normal;
-	text-align: center;  
+	vertical-align: top;
+	/* text-align: center;   */
 }
 
 .header-ficha-linea {
 	height: 80px;
 	width: 2px;
+	display: flex;
+	
 	background-color: grey;
 	margin-right: 10px;
 }
 
 .header-ficha-container-logo {
-	display: flex;
-	align-items: center;
-	height: 100%; 
-	width: auto;
+			/* flex: 1;
+ 			display: flex; */
+            /* align-items: center; */
+           
+			width: 19%;	
+	top: 10px;
+	right: -2px;
+	z-index: 2;
+	
+
 }
 
 .header-ficha-logo {
-	width: 150px;
+	/* display: inline-block;
+	flex: 1; */
+	/* width:128px;
+	height: 128px; */
+	width: 20%;
 }
 
 
