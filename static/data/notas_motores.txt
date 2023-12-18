@@ -1,0 +1,10 @@
+
+Los motores tubulares disponen de un final de carrera para definir su recorrido. El final de carrera puede ser electronico o mecanico.
+
+En los motores de tipo normal hay se puede definir el final de carrera de subida y de bajada.
+
+En los motores tipo box el cierre se realiza por presion. De esta manera se asegura que el sistema quede siempre completamente cerrado. Suelen utilizarse en sistemas como toldos tipo cofre
+
+Los motores tipo box cierra por presión.
+
+Los sistemas ti
