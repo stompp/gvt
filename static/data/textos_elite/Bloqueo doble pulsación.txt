@@ -1,0 +1,13 @@
+Los mandos Elite tienen la posibilidad de bloquear la doble pulsación de los botones con la intención de evitar que el cliente final pueda manipular la configuración del motor.
+
+Para bloquear/desbloquear la doble pulsación, hay que mantener pulsado el botón STOP durante 15 segundos. El mando responderá de diferente modo según el tipo:
+
+Respuestas en mandos de 15 canales (60090166 y 60090171):
+
+	- Aparecerá “U” (“Unlocked”) en la pantalla para indicar que la doble pulsación ha sido desbloqueada.
+	- Aparcerá “L” (“Locked”) en la pantalla para indicar que la doble pulsación ha sido bloqueada.
+
+Respuestas en mandos de 1 canal (60090165 y 60090170):
+
+	- El led parpadeará 5 veces para indicar que la doble pulsación ha sido desbloqueada.
+	- El led se mantiene encendido unos 4 segundos para indicar que la doble pulsación ha sido bloqueada.

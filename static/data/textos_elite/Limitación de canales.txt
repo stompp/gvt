@@ -1,0 +1,10 @@
+Los mandos Elite de 15 canales tienen la posibilidad de limitar el numero de canales mostrados.
+
+Para ello:
+
+1. Mantener pulsado los dos botones de cambio de canal. Al hacerlo, aparecerá una C en pantalla.
+2. Mantener pulsado hasta que aparezca 15.
+3. Navegar hasta el canal máximo que queramos que aparezca en pantalla.
+4. Pulsar Stop para fijar el canal máximo.
+
+El proceso puede repetirse en cualquier momento para modifcar el máximo de canales.
