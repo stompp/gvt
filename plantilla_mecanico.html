@@ -20,16 +20,22 @@
   <br><br><br>
 
 
+
   <ul class="lista-parametros">
     <li>Código: {{ data['codigo'] }}.</li>
+
+    <li>Par: {{ data['par'] }} Nm.</li>
+    <li>Velocidad: {{ data['rpm'] }} rpm.</li>
+
     <li>Alimentación: {{ data['alimentacion'] }}.</li>
     <li>Potencia: {{ data['potencia'] }} W.</li>
     <li>Consumo: {{ data['corriente'] }} A.</li>
-    <li>Par: {{ data['par'] }} Nm.</li>
-    <li>Velocidad: {{ data['rpm'] }} rpm.</li>
-    <li>Recorrido Máximo: {{ data['vueltas_max'] }} vueltas.</li>
+    
+    <li>Recorrido Máximo {{ data['vueltas_max'] }} vueltas.</li>
     <li>Funcionamiento Continuo: {{ data['tiempo_max'] }} minutos.</li>
+    
     <li>Protección: IP{{ data['ip'] }}.</li>
+     <li>&nbsp;</li>
     <li>Medidas:</li>
     <ul>
       <li>A: {{ data['diametro']}} mm.</li>
@@ -43,7 +49,7 @@
   </ul>
 
   <p>&nbsp;</p>
-
+  <div class="container-centrado">
   <div class="container-motor motor">
     <img src="static/img/motor.png" class="motor-img">
 
@@ -54,6 +60,7 @@
     <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
 
   </div>
+</div>
 </body>
 
 </html>

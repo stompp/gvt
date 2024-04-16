@@ -2,53 +2,44 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <!-- <base href="https://stompp.github.io/gvt/" target="_blank" /> -->
+    <base href="https://stompp.github.io/gvt/" target="_blank" />
     <title>Ficha Técnica</title>
     <link rel="stylesheet" type="text/css" href="styles/ficha-motor-base.css" />
     <link rel="stylesheet" type="text/css" href="styles/motores-fichas.css" />
   </head>
 
   <body class="fuente-gvt">
-    <table class="header-ficha-tabla fuente-gvt">
-      <tr>
-          <td class="header-ficha-tabla-celda-titulo">
-            <div class="header-ficha-titulo">
-              Ficha Técnica<br />
-              {{ data['nombre'] }}
-            </div>
-          </td>
-          <td class="header-ficha-tabla-celda-logo">
-              <img src="static/img/gvtlogo.jpg" >
-          </td>
-      </tr>
-  </table>
-  
-    <p>&nbsp;</p>
-    <ul class="lista-parametros fuente-gvt">
+    <div class="logo-titulo">
+      <img src="static/img/gvtlogo.jpg">
+    </div>
+    <h1 class="titulo-ficha" id="titulo-ficha">Ficha Técnica<br>{{ data['nombre'] }}</h1>
+    <br><br><br> 
+    <ul class="lista-parametros">
       <li>Código: {{ data['codigo'] }}.</li>
-
+  
       <li>Par: {{ data['par'] }} Nm.</li>
       <li>Velocidad: {{ data['rpm'] }} rpm.</li>
-
+  
       <li>Alimentación: {{ data['alimentacion'] }}.</li>
       <li>Potencia: {{ data['potencia'] }} W.</li>
       <li>Consumo: {{ data['corriente'] }} A.</li>
-
-      <li>Recorrido Máximo: {{ data['vueltas_max'] }} vueltas.</li>
+      
+      <li>Recorrido Máximo {{ data['vueltas_max'] }} vueltas.</li>
       <li>Funcionamiento Continuo: {{ data['tiempo_max'] }} minutos.</li>
+      
       <li>Protección: IP{{ data['ip'] }}.</li>
-      <li>&nbsp;</li>
+       <li>&nbsp;</li>
       <li>Medidas:</li>
       <ul>
-        <li>A: {{ data['diametro'] }} mm.</li>
+        <li>A: {{ data['diametro']}} mm.</li>
         <li>B: {{ data['ancho_cabeza'] }} mm.</li>
         <li>C: {{ data['longitud_cabeza'] }} mm.</li>
         <li>D: {{ data['longitud']}} mm.</li>
         <li>D1: {{ data['d1']}} mm.</li>
         <li>D2: {{ data['longitud_perno']}} mm.</li>
       </ul>
+  
     </ul>
-
     <p>&nbsp;</p>
     <div class="container-centrado">
       <div class="container-motor motor-elitegsm45">

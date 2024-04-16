@@ -9,37 +9,26 @@
   </head>
 
   <body class="fuente-gvt">
-    <table class="header-ficha-tabla fuente-gvt">
-      <tr>
-          <td class="header-ficha-tabla-celda-titulo">
-            <div class="header-ficha-titulo">
-              Ficha Técnica<br />
-              {{ data['nombre'] }}
-            </div>
-              <!-- <p>Aquí va tu texto. Puede ser de varias líneas y se ajustará para ocupar el 80% del espacio disponible en la celda.</p> -->
-              <!-- Agrega más contenido de texto según sea necesario -->
-          </td>
-          <td class="header-ficha-tabla-celda-logo">
-              <img src="static/img/gvtlogo.jpg" >
-          </td>
-      </tr>
-  </table>
-  
-    <p>&nbsp;</p>
-    <ul class="lista-parametros fuente-gvt">
+    <div class="logo-titulo">
+      <img src="static/img/gvtlogo.jpg">
+    </div>
+    <h1 class="titulo-ficha" id="titulo-ficha">Ficha Técnica<br>{{ data['nombre'] }}</h1>
+    <br><br><br> 
+    <ul class="lista-parametros">
       <li>Código: {{ data['codigo'] }}.</li>
-
+  
       <li>Par: {{ data['par'] }} Nm.</li>
       <li>Velocidad: {{ data['rpm'] }} rpm.</li>
-
+  
       <li>Alimentación: {{ data['alimentacion'] }}.</li>
       <li>Potencia: {{ data['potencia'] }} W.</li>
       <li>Consumo: {{ data['corriente'] }} A.</li>
-
-      <li>Recorrido Máximo: {{ data['vueltas_max'] }} vueltas.</li>
+      
+      <li>Recorrido Máximo {{ data['vueltas_max'] }} vueltas.</li>
       <li>Funcionamiento Continuo: {{ data['tiempo_max'] }} minutos.</li>
+      
       <li>Protección: IP{{ data['ip'] }}.</li>
-      <li>&nbsp;</li>
+       <li>&nbsp;</li>
       <li>Medidas:</li>
       <ul>
         <li>A: {{ data['diametro']}} mm.</li>
@@ -49,8 +38,8 @@
         <li>D1: {{ data['d1']}} mm.</li>
         <li>D2: {{ data['longitud_perno']}} mm.</li>
       </ul>
+  
     </ul>
-
     <p>&nbsp;</p>
     <div class="container-centrado">
       <div class="container-motor motor-elitegsm45">
