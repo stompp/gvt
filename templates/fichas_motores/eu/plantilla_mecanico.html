@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <base href="https://stompp.github.io/gvt/" target="_blank" />
+  <title>Fitxa Teknikoa</title>
+  <link rel="stylesheet" type="text/css" href="styles/ficha-motor-base.css">
+  <link rel="stylesheet" type="text/css" href="styles/motores-fichas.css">
+</head>
+
+
+<body class="fuente-gvt">
+
+  <div class="logo-titulo">
+    <img src="static/img/gvtlogo.jpg">
+  </div>
+  <h1 class="titulo-ficha" id="titulo-ficha">Fitxa Teknikoa<br>{{ data['nombre'] }}</h1>
+
+  <br><br><br>
+
+
+
+  <ul class="lista-parametros">
+    <li>Kodea: {{ data['codigo'] }}.</li>
+
+    <li>Par: {{ data['par'] }} Nm.</li>
+    <li>Abiadura: {{ data['rpm'] }} rpm.</li>
+
+    <li>Elikadura: {{ data['alimentacion'] }}.</li>
+    <li>Potentzia: {{ data['potencia'] }} W.</li>
+    <li>Kontsumoa: {{ data['corriente'] }} A.</li>
+    
+    <li>Ibilbide Maximoa {{ data['vueltas_max'] }} birak.</li>
+    <li>Jarraipen Jarraia: {{ data['tiempo_max'] }} minutu.</li>
+    
+    <li>Babesa: IP{{ data['ip'] }}.</li>
+     <li>&nbsp;</li>
+    <li>Neurriak:</li>
+    <ul>
+      <li>A: {{ data['diametro']}} mm.</li>
+      <li>B: {{ data['ancho_cabeza'] }} mm.</li>
+      <li>C: {{ data['longitud_cabeza'] }} mm.</li>
+      <li>D: {{ data['longitud']}} mm.</li>
+      <li>D1: {{ data['d1']}} mm.</li>
+      <li>D2: {{ data['longitud_perno']}} mm.</li>
+    </ul>
+
+  </ul>
+
+  <p>&nbsp;</p>
+  <div class="container-centrado">
+  <div class="container-motor motor">
+    <img src="static/img/motor.png" class="motor-img">
+
+    <span class="medida-a">A:{{ data['diametro']}}</span>
+    <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
+    <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
+    <span class="medida-d1">D1:{{ data['d1']}}</span>
+    <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
+
+  </div>
+</div>
+</body>
+
+</html>

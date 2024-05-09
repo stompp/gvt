@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <base href="https://stompp.github.io/gvt/" target="_blank" />
+    <title>Technisches Datenblatt</title>
+    <link rel="stylesheet" type="text/css" href="styles/ficha-motor-base.css" />
+    <link rel="stylesheet" type="text/css" href="styles/motores-fichas.css" />
+  </head>
+
+  <body class="fuente-gvt">
+    <div class="logo-titulo">
+      <img src="static/img/gvtlogo.jpg">
+    </div>
+    <h1 class="titulo-ficha" id="titulo-ficha">Technisches Datenblatt<br>{{ data['nombre'] }}</h1>
+    <br><br><br> 
+    <ul class="lista-parametros">
+      <li>Code: {{ data['codigo'] }}.</li>
+  
+      <li>Drehmoment: {{ data['par'] }} Nm.</li>
+      <li>Geschwindigkeit: {{ data['rpm'] }} U/min.</li>
+  
+      <li>Stromversorgung: {{ data['alimentacion'] }}.</li>
+      <li>Leistung: {{ data['potencia'] }} W.</li>
+      <li>Verbrauch: {{ data['corriente'] }} A.</li>
+      
+      <li>Maximaler Weg {{ data['vueltas_max'] }} Umdrehungen.</li>
+      <li>Dauerbetrieb: {{ data['tiempo_max'] }} Minuten.</li>
+      
+      <li>Schutz: IP{{ data['ip'] }}.</li>
+       <li>&nbsp;</li>
+      <li>Maße:</li>
+      <ul>
+        <li>A: {{ data['diametro']}} mm.</li>
+        <li>B: {{ data['ancho_cabeza'] }} mm.</li>
+        <li>C: {{ data['longitud_cabeza'] }} mm.</li>
+        <li>D: {{ data['longitud']}} mm.</li>
+        <li>D1: {{ data['d1']}} mm.</li>
+        <li>D2: {{ data['longitud_perno']}} mm.</li>
+      </ul>
+  
+    </ul>
+    <p>&nbsp;</p>
+    <div class="container-centrado">
+      <div class="container-motor motor-elitegsm45">
+        <span class="medida-a">A:{{ data['diametro']}}</span>
+        <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
+        <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
+        <span class="medida-d1">D1:{{ data['d1']}}</span>
+        <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
+        <img src="static/img/motor-elite-gsm-45.png" class="motor-img" />
+      </div>
+    </div>
+
+    <!-- 
+    <div class="contenedor-centro motor-elitegsm45">
+      <div class="contenedor-imagen ">
+          <img src="static/img/motor-elite-gsm-45.png" alt="Imagen de fondo">
+          <span class="medida-a">A:{{ data['diametro']}}</span>
+          <span class="medida-b">B:{{ data['ancho_cabeza'] }}</span>
+          <span class="medida-c">C:{{ data['longitud_cabeza'] }}</span>
+          <span class="medida-d1">D1:{{ data['d1']}}</span>
+          <span class="medida-d2">D2:{{ data['longitud_perno']}}</span>
+      </div>
+  </div> -->
+  </body>
+</html>
