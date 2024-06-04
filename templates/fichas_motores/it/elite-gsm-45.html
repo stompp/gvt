@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <base href="https://stompp.github.io/gvt/" target="_blank" />
-    <title>技术规格表</title>
+    <title>Scheda Tecnica</title>
     <link rel="stylesheet" type="text/css" href="styles/ficha-motor-base.css" />
     <link rel="stylesheet" type="text/css" href="styles/motores-fichas.css" />
   </head>
@@ -12,31 +12,31 @@
     <div class="logo-titulo">
       <img src="static/img/gvtlogo.jpg">
     </div>
-    <h1 class="titulo-ficha" id="titulo-ficha">技术规格表<br>{{ data['nombre'] }}</h1>
+    <h1 class="titulo-ficha" id="titulo-ficha">Scheda Tecnica<br>{{ data['nombre'] }}</h1>
     <br><br><br> 
     <ul class="lista-parametros">
-      <li>代码: {{ data['codigo'] }}.</li>
+      <li>Codice: {{ data['codigo'] }}.</li>
   
-      <li>扭矩: {{ data['par'] }} Nm.</li>
-      <li>速度: {{ data['rpm'] }} rpm.</li>
+      <li>Coppia: {{ data['par'] }} Nm.</li>
+      <li>Velocità: {{ data['rpm'] }} rpm.</li>
   
-      <li>供电: {{ data['alimentacion'] }}.</li>
-      <li>功率: {{ data['potencia'] }} W.</li>
-      <li>消耗: {{ data['corriente'] }} A.</li>
+      <li>Alimentazione: {{ data['alimentacion'] }}.</li>
+      <li>Potenza: {{ data['potencia'] }} W.</li>
+      <li>Consumo: {{ data['corriente'] }} A.</li>
       
-      <li>最大行程 {{ data['vueltas_max'] }} 圈.</li>
-      <li>连续运行: {{ data['tiempo_max'] }} 分钟.</li>
+      <li>Corsa Massima {{ data['vueltas_max'] }} giri.</li>
+      <li>Funzionamento Continuo: {{ data['tiempo_max'] }} minuti.</li>
       
-      <li>防护等级: IP{{ data['ip'] }}.</li>
+      <li>Protezione: IP{{ data['ip'] }}.</li>
        <li>&nbsp;</li>
-      <li>尺寸:</li>
+      <li>Misure:</li>
       <ul>
-        <li>A: {{ data['diametro']}} 毫米.</li>
-        <li>B: {{ data['ancho_cabeza'] }} 毫米.</li>
-        <li>C: {{ data['longitud_cabeza'] }} 毫米.</li>
-        <li>D: {{ data['longitud']}} 毫米.</li>
-        <li>D1: {{ data['d1']}} 毫米.</li>
-        <li>D2: {{ data['longitud_perno']}} 毫米.</li>
+        <li>A: {{ data['diametro']}} mm.</li>
+        <li>B: {{ data['ancho_cabeza'] }} mm.</li>
+        <li>C: {{ data['longitud_cabeza'] }} mm.</li>
+        <li>D: {{ data['longitud']}} mm.</li>
+        <li>D1: {{ data['d1']}} mm.</li>
+        <li>D2: {{ data['longitud_perno']}} mm.</li>
       </ul>
   
     </ul>
