@@ -1,0 +1,49 @@
+# crear tipo de dato motor 
+
+## tabla cabezas
+
+nombre
+ancho
+largo
+alto
+distancia_entre_tornillos
+metrica_tornillos
+
+material
+
+
+
+## tabla tipos_motores
+
+tipo_motor
+gama
+serie
+pares
+final_de_carrera
+control
+sistema_radio
+tipologia
+pares
+tipo_cabeza
+tipo_perno
+cierre_automatico
+extension_automatica
+alimentacion
+aplicaciones
+deteccion_bloqueo
+deteccion_obstaculo
+
+
+- crear buscador manuales
+
+etiquetas manuales
+
+## dispositivos
+
+familia_dispositivo motor,automatismo,soporte,acople
+
+
+dispositivo motor
+
+gama
+version
