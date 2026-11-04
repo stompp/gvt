@@ -1,0 +1,11 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,31,216,392,481,753,553,6,Portada: central sol-viento Cross,central_sv_cross
+imagenes/p06_img1.png,6,imagen,,68,111,124,283,177,545,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),central_sv_cross
+imagenes/p06_img2.png,6,imagen,,263,111,324,283,198,561,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),central_sv_cross
+imagenes/p06_img3.png,6,imagen,,253,373,357,463,434,375,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),central_sv_cross
+imagenes/p06_img4.png,6,imagen,,48,373,152,463,434,375,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),central_sv_cross
+imagenes/p07_zona1.png,7,zona,,52,108,188,408,285,626,4,"Central abierta con los controles A-E (reguladores de viento y sol, UP, P2, indicador) y conexionado azul neutro, marrón fase",central_sv_cross
+imagenes/p11_img1.png,11,imagen,,42,163,83,201,209,198,1,"Iconos de la tabla de tiempos de activación (sol, viento)",central_sv_cross
+imagenes/p11_img2.png,11,imagen,,25,254,100,277,311,97,1,"Iconos de la tabla de tiempos de activación (sol, viento)",central_sv_cross
+imagenes/p11_img3.png,11,imagen,,28,326,97,365,381,220,1,"Iconos de la tabla de tiempos de activación (sol, viento)",central_sv_cross
+imagenes/p11_img4.png,11,imagen,,48,405,77,453,124,205,1,"Iconos de la tabla de tiempos de activación (sol, viento)",central_sv_cross

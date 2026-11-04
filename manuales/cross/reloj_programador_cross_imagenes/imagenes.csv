@@ -1,0 +1,3 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_img1.png,1,imagen,,136,287,460,613,864,869,1,Portada: reloj programador Cross,reloj_programador_cross
+imagenes/p06_img1.png,6,imagen,02 Función de los controles,72,600,247,775,433,436,1,"Reloj con los botones A-F (+, o, −, subida, stop, bajada) y la pantalla",reloj_programador_cross

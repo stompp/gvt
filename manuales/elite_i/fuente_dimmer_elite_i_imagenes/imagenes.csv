@@ -1,0 +1,12 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,8,166,411,457,839,609,2,Portada: Control Led Elite-i,fuente_dimmer_elite_i
+imagenes/p04_zona1.png,4,zona,01 Descripción del producto,57,460,199,575,298,240,2,Producto o pictogramas de la descripción,fuente_dimmer_elite_i
+imagenes/p04_img2.png,4,imagen,01 Descripción del producto,212,519,364,577,364,139,1,Producto o pictogramas de la descripción,fuente_dimmer_elite_i
+imagenes/p04_img3.png,4,imagen,01 Descripción del producto,222,460,364,516,296,117,1,Producto o pictogramas de la descripción,fuente_dimmer_elite_i
+imagenes/p05_zona1.png,5,zona,02 Características técnicas,24,78,404,337,794,541,4,Producto con cotas o ficha técnica,fuente_dimmer_elite_i
+imagenes/p06_img1.png,6,imagen,03 Emisores compatibles,94,307,176,390,173,173,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),fuente_dimmer_elite_i
+imagenes/p06_img2.png,6,imagen,03 Emisores compatibles,231,307,314,389,173,172,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),fuente_dimmer_elite_i
+imagenes/p06_img3.png,6,imagen,03 Emisores compatibles,109,95,156,242,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),fuente_dimmer_elite_i
+imagenes/p06_img4.png,6,imagen,03 Emisores compatibles,241,95,288,243,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),fuente_dimmer_elite_i
+imagenes/p09_img1.png,9,imagen,05 Funcionamiento,247,133,278,211,65,164,1,Ilustración de «Funcionamiento»,fuente_dimmer_elite_i
+imagenes/p11_img1.png,11,imagen,07 Copia de emisores,65,262,97,341,66,164,1,Ilustración de «Copia de emisores»,fuente_dimmer_elite_i

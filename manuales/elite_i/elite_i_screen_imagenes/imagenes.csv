@@ -1,0 +1,80 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_img1.png,1,imagen,,-9,163,429,518,1824,1479,1,,
+imagenes/p05_img1.png,5,imagen,02 Emisores compatibles,44,308,127,390,343,343,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p05_img2.png,5,imagen,02 Emisores compatibles,181,308,264,390,343,341,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p05_img3.png,5,imagen,02 Emisores compatibles,297,304,401,394,434,375,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p05_img4.png,5,imagen,02 Emisores compatibles,59,95,107,244,201,622,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p05_img5.png,5,imagen,02 Emisores compatibles,191,95,239,244,201,622,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p05_img6.png,5,imagen,02 Emisores compatibles,322,126,371,214,206,367,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p05_img7.png,5,imagen,02 Emisores compatibles,237,466,363,521,228,525,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p05_img8.png,5,imagen,02 Emisores compatibles,68,466,189,521,228,504,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_screen
+imagenes/p06_img1.png,6,imagen,03 Conexiones,73,84,238,213,687,540,1,Esquema de conexionado,elite_i_screen
+imagenes/p07_img1.png,7,imagen,04 Asignar emisor al motor,284,513,335,559,213,190,1,Ilustración de «Asignar emisor al motor»,elite_i_screen
+imagenes/p09_img1.png,9,imagen,04 Asignar emisor al motor,274,197,305,277,127,334,1,Ilustración de «Asignar emisor al motor»,elite_i_screen
+imagenes/p09_zona2.png,9,zona,04 Asignar emisor al motor,170,198,203,276,68,163,2,Ilustración de «Asignar emisor al motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p09_zona3.png,9,zona,04 Asignar emisor al motor,67,198,100,276,69,163,2,Ilustración de «Asignar emisor al motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p09.png,9,pagina,04 Asignar emisor al motor,0,0,420,595,875,1241,485,Página 9 renderizada: Asignar emisor al motor (pasos con botones y respuestas),elite_i_screen
+imagenes/p10_zona1.png,10,zona,05 Invertir el sentido de giro,20,210,50,290,64,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p10_zona2.png,10,zona,05 Invertir el sentido de giro,285,210,316,290,64,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p10_zona3.png,10,zona,05 Invertir el sentido de giro,146,210,177,290,64,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p10.png,10,pagina,05 Invertir el sentido de giro,0,0,420,595,875,1241,492,Página 10 renderizada: Invertir el sentido de giro (pasos con botones y respuestas),elite_i_screen
+imagenes/p12_zona1.png,12,zona,06 Finales de carrera,28,428,58,508,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p12_zona2.png,12,zona,06 Finales de carrera,142,428,173,508,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p12_zona3.png,12,zona,06 Finales de carrera,281,428,312,508,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p12.png,12,pagina,06 Finales de carrera,0,0,420,595,875,1241,504,Página 12 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i_screen
+imagenes/p13_zona1.png,13,zona,06 Finales de carrera,178,216,209,296,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p13_zona2.png,13,zona,06 Finales de carrera,300,216,331,296,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p13_zona3.png,13,zona,06 Finales de carrera,66,216,97,296,65,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p13.png,13,pagina,06 Finales de carrera,0,0,420,595,875,1241,449,Página 13 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i_screen
+paginas/p14.png,14,pagina,06 Finales de carrera,0,0,420,595,875,1241,496,Página 14 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i_screen
+imagenes/p15_zona1.png,15,zona,06 Finales de carrera,28,494,59,574,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p15_zona2.png,15,zona,06 Finales de carrera,216,494,247,574,65,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p15_zona3.png,15,zona,06 Finales de carrera,325,494,355,574,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p15.png,15,pagina,06 Finales de carrera,0,0,420,595,875,1241,508,Página 15 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i_screen
+imagenes/p17_zona1.png,17,zona,06 Finales de carrera,253,216,284,296,64,168,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p17_zona2.png,17,zona,06 Finales de carrera,258,496,288,576,64,167,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p17.png,17,pagina,06 Finales de carrera,0,0,420,595,875,1241,316,Página 17 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i_screen
+imagenes/p18_zona1.png,18,zona,06 Finales de carrera,61,207,94,285,69,163,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p18_zona2.png,18,zona,06 Finales de carrera,275,207,308,285,69,163,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p18.png,18,pagina,06 Finales de carrera,0,0,420,595,875,1241,487,Página 18 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i_screen
+imagenes/p19_zona1.png,19,zona,07 Opciones de cerrojillo,27,132,60,209,69,163,2,Ilustración de «Opciones de cerrojillo» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p19_zona2.png,19,zona,07 Opciones de cerrojillo,27,305,60,383,69,163,2,Ilustración de «Opciones de cerrojillo» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p19_zona3.png,19,zona,07 Opciones de cerrojillo,112,131,142,210,64,168,4,Ilustración de «Opciones de cerrojillo» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p19_zona4.png,19,zona,07 Opciones de cerrojillo,206,131,236,210,65,168,4,Ilustración de «Opciones de cerrojillo» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p19_zona5.png,19,zona,07 Opciones de cerrojillo,112,304,142,384,64,167,4,Ilustración de «Opciones de cerrojillo» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p19_zona6.png,19,zona,07 Opciones de cerrojillo,200,304,230,384,64,167,4,Ilustración de «Opciones de cerrojillo» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p19.png,19,pagina,07 Opciones de cerrojillo,0,0,420,595,875,1241,641,Página 19 renderizada: Opciones de cerrojillo (pasos con botones y respuestas),elite_i_screen
+imagenes/p20_img1.png,20,imagen,08 Antiobstáculos,19,132,51,209,136,325,1,Ilustración de «Antiobstáculos»,elite_i_screen
+imagenes/p20_zona2.png,20,zona,08 Antiobstáculos,92,131,123,210,65,168,2,Ilustración de «Antiobstáculos» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p20_zona3.png,20,zona,08 Antiobstáculos,177,131,208,210,64,168,2,Ilustración de «Antiobstáculos» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p20.png,20,pagina,08 Antiobstáculos,0,0,420,595,875,1241,324,Página 20 renderizada: Antiobstáculos (pasos con botones y respuestas),elite_i_screen
+imagenes/p21_zona1.png,21,zona,09 Parada intermedia,172,373,202,453,65,168,2,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p21_zona2.png,21,zona,09 Parada intermedia,279,373,309,453,64,168,2,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p21.png,21,pagina,09 Parada intermedia,0,0,420,595,875,1241,484,Página 21 renderizada: Parada intermedia (pasos con botones y respuestas),elite_i_screen
+imagenes/p22_zona1.png,22,zona,09 Parada intermedia,273,206,304,286,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p22_zona2.png,22,zona,09 Parada intermedia,166,206,197,286,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p22_zona3.png,22,zona,09 Parada intermedia,76,206,107,286,64,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p22_zona4.png,22,zona,09 Parada intermedia,164,496,194,576,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p22_zona5.png,22,zona,09 Parada intermedia,270,496,301,576,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p22.png,22,pagina,09 Parada intermedia,0,0,420,595,875,1241,1253,Página 22 renderizada: Parada intermedia (pasos con botones y respuestas),elite_i_screen
+imagenes/p23_zona1.png,23,zona,10 Emisores programados en el motor,75,279,108,357,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p23_zona2.png,23,zona,10 Emisores programados en el motor,193,279,226,357,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p23_zona3.png,23,zona,10 Emisores programados en el motor,297,279,330,357,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p23.png,23,pagina,10 Emisores programados en el motor,0,0,420,595,875,1241,486,Página 23 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i_screen
+imagenes/p24_zona1.png,24,zona,10 Emisores programados en el motor,63,206,95,284,69,164,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p24_zona2.png,24,zona,10 Emisores programados en el motor,175,206,208,284,69,164,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p24_zona3.png,24,zona,10 Emisores programados en el motor,288,206,320,284,69,164,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p24.png,24,pagina,10 Emisores programados en el motor,0,0,420,595,875,1241,487,Página 24 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i_screen
+imagenes/p25_zona1.png,25,zona,10 Emisores programados en el motor,73,187,106,265,69,164,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p25_zona2.png,25,zona,10 Emisores programados en el motor,280,187,313,265,69,164,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p25.png,25,pagina,10 Emisores programados en el motor,0,0,420,595,875,1241,489,Página 25 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i_screen
+imagenes/p26_zona1.png,26,zona,11 Hombre presente,62,57,94,135,68,163,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p26_zona2.png,26,zona,11 Hombre presente,162,57,195,135,68,163,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p26.png,26,pagina,11 Hombre presente,0,0,420,595,875,1241,478,Página 26 renderizada: Hombre presente (pasos con botones y respuestas),elite_i_screen
+imagenes/p27_zona1.png,27,zona,11 Hombre presente,64,198,96,276,69,163,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p27_zona2.png,27,zona,11 Hombre presente,64,431,96,509,69,163,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p27_zona3.png,27,zona,11 Hombre presente,165,197,196,277,65,167,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p27_zona4.png,27,zona,11 Hombre presente,278,197,309,277,64,167,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p27_zona5.png,27,zona,11 Hombre presente,165,430,196,510,65,168,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+imagenes/p27_zona6.png,27,zona,11 Hombre presente,278,430,309,510,64,168,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_screen
+paginas/p27.png,27,pagina,11 Hombre presente,0,0,420,595,875,1241,964,Página 27 renderizada: Hombre presente (pasos con botones y respuestas),elite_i_screen

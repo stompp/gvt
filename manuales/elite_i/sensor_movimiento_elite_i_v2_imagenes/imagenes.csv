@@ -1,0 +1,20 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,36,187,384,459,727,569,4,Portada: Sensor de movimiento Elite-i v2,sensor_movimiento_elite_i_v2
+paginas/p04.png,4,pagina,01 Descripción del producto,0,0,420,595,875,1241,167,Página 4 renderizada: Descripción del producto (pasos con botones y respuestas),sensor_movimiento_elite_i_v2
+imagenes/p05_zona1.png,5,zona,02 Características técnicas,135,347,381,533,513,390,3,Producto con cotas o ficha técnica,sensor_movimiento_elite_i_v2
+imagenes/p05_img2.png,5,imagen,02 Características técnicas,90,110,326,295,491,386,1,Producto con cotas o ficha técnica,sensor_movimiento_elite_i_v2
+imagenes/p06_img1.png,6,imagen,03 Emisores compatibles,98,307,181,390,173,173,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),sensor_movimiento_elite_i_v2
+imagenes/p06_img2.png,6,imagen,03 Emisores compatibles,235,307,318,389,173,172,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),sensor_movimiento_elite_i_v2
+imagenes/p06_img3.png,6,imagen,03 Emisores compatibles,113,95,160,242,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),sensor_movimiento_elite_i_v2
+imagenes/p06_img4.png,6,imagen,03 Emisores compatibles,246,95,293,243,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),sensor_movimiento_elite_i_v2
+imagenes/p07_img1.png,7,imagen,04 Funcionamiento,358,123,392,263,288,69,1,Ilustración de «Funcionamiento»,sensor_movimiento_elite_i_v2
+imagenes/p08_img1.png,8,imagen,05 Programación,154,246,185,324,65,164,1,Ilustración de «Programación»,sensor_movimiento_elite_i_v2
+paginas/p08.png,8,pagina,05 Programación,0,0,420,595,875,1241,524,Página 8 renderizada: Programación (pasos con botones y respuestas),sensor_movimiento_elite_i_v2
+imagenes/p09_img1.png,9,imagen,05 Programación,19,148,85,203,115,95,1,,
+imagenes/p09_img2.png,9,imagen,05 Programación,19,213,86,268,114,94,1,,
+imagenes/p09_img3.png,9,imagen,05 Programación,19,331,85,386,139,115,1,Ilustración de «Programación»,sensor_movimiento_elite_i_v2
+imagenes/p09_img4.png,9,imagen,05 Programación,18,452,90,507,150,115,1,Ilustración de «Programación»,sensor_movimiento_elite_i_v2
+imagenes/p09_img5.png,9,imagen,05 Programación,19,523,90,578,223,171,1,Ilustración de «Programación»,sensor_movimiento_elite_i_v2
+imagenes/p09_img6.png,9,imagen,05 Programación,19,271,125,326,221,116,1,Ilustración de «Programación»,sensor_movimiento_elite_i_v2
+imagenes/p09_img7.png,9,imagen,05 Programación,19,391,110,446,286,171,1,Ilustración de «Programación»,sensor_movimiento_elite_i_v2
+paginas/p10.png,10,pagina,06 Eliminación,0,0,420,595,875,1241,524,Página 10 renderizada: Eliminación (pasos con botones y respuestas),sensor_movimiento_elite_i_v2

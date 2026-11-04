@@ -1,0 +1,19 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,19,176,400,457,794,586,3,Portada: Caja control Plug&Play Elite-i,caja_control_pp_elite_i
+imagenes/p04_img1.png,4,imagen,01 Descripción del producto,111,466,302,543,718,291,1,Producto o pictogramas de la descripción,caja_control_pp_elite_i
+imagenes/p05_zona1.png,5,zona,02 Características técnicas,28,89,400,363,776,574,3,Producto con cotas o ficha técnica,caja_control_pp_elite_i
+imagenes/p06_img1.png,6,imagen,03 Emisores compatibles,94,307,176,390,295,295,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),caja_control_pp_elite_i
+imagenes/p06_img2.png,6,imagen,03 Emisores compatibles,231,307,313,389,309,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),caja_control_pp_elite_i
+imagenes/p06_img3.png,6,imagen,03 Emisores compatibles,109,95,156,242,177,557,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),caja_control_pp_elite_i
+imagenes/p06_img4.png,6,imagen,03 Emisores compatibles,241,95,288,243,174,550,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),caja_control_pp_elite_i
+imagenes/p07_zona1.png,7,zona,04 Esquemas de conexionados,137,344,350,411,443,142,6,Esquema de conexionado,caja_control_pp_elite_i
+imagenes/p07_zona2.png,7,zona,04 Esquemas de conexionados,82,141,373,269,606,268,4,Esquema de conexionado,caja_control_pp_elite_i
+paginas/p07.png,7,pagina,04 Esquemas de conexionados,0,0,420,595,875,1241,873,Página 7 renderizada: Esquemas de conexionados (pasos con botones y respuestas),caja_control_pp_elite_i
+imagenes/p08_zona1.png,8,zona,04 Esquemas de conexionados,128,299,341,366,443,141,6,Esquema de conexionado,caja_control_pp_elite_i
+imagenes/p08_zona2.png,8,zona,04 Esquemas de conexionados,73,102,363,225,606,258,4,Esquema de conexionado,caja_control_pp_elite_i
+paginas/p08.png,8,pagina,04 Esquemas de conexionados,0,0,420,595,875,1241,923,Página 8 renderizada: Esquemas de conexionados (pasos con botones y respuestas),caja_control_pp_elite_i
+imagenes/p09_zona1.png,9,zona,04 Esquemas de conexionados,137,301,343,367,429,137,6,Esquema de conexionado,caja_control_pp_elite_i
+imagenes/p09_zona2.png,9,zona,04 Esquemas de conexionados,85,107,366,231,586,258,4,Esquema de conexionado,caja_control_pp_elite_i
+paginas/p09.png,9,pagina,04 Esquemas de conexionados,0,0,420,595,875,1241,1030,Página 9 renderizada: Esquemas de conexionados (pasos con botones y respuestas),caja_control_pp_elite_i
+imagenes/p10_img1.png,10,imagen,05 Funcionamiento,238,133,269,211,112,283,1,Ilustración de «Funcionamiento»,caja_control_pp_elite_i
+imagenes/p12_img1.png,12,imagen,07 Copia de emisores,57,262,88,341,112,282,1,Ilustración de «Copia de emisores»,caja_control_pp_elite_i

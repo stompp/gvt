@@ -1,0 +1,33 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,22,181,386,453,760,569,3,Portada: receptor y emisor,60090175
+imagenes/p04_img1.png,4,imagen,01 Descripción del producto,103,424,325,576,363,250,1,"Pictogramas de advertencia: no mojar, no manipular con herramientas",60090175
+imagenes/p05_img1.png,5,imagen,02 Características técnicas,28,109,400,267,1359,578,1,Receptor con cotas (108/121 × 36 × 22 mm) y botón S2,60090175
+imagenes/p06_img1.png,6,imagen,03 Emisores compatibles,183,95,230,243,174,550,1,Emisor 15 canales Elite-i (por su posición),60090166
+imagenes/p06_img2.png,6,imagen,03 Emisores compatibles,313,124,363,213,168,298,1,Módulo CONNECT (por su posición),60090167
+imagenes/p06_img3.png,6,imagen,03 Emisores compatibles,228,465,355,520,195,446,1,Central sol viento Elite-i inalámbrica (por su posición),60090169
+imagenes/p06_img4.png,6,imagen,03 Emisores compatibles,59,465,181,520,185,406,1,Central sol viento Elite-i (por su posición),60090168
+imagenes/p06_img5.png,6,imagen,03 Emisores compatibles,36,307,118,390,295,295,1,Emisor pared 1 canal Elite-i,60090170
+imagenes/p06_img6.png,6,imagen,03 Emisores compatibles,173,307,255,389,309,308,1,Emisor pared 15 canales Elite-i (por su posición),60090171
+imagenes/p06_img7.png,6,imagen,03 Emisores compatibles,289,304,392,392,372,320,1,Sensor de movimiento Elite-i (por su posición; no se sabe si v1 o v2),"60090172,60090173,60090206,60090207"
+imagenes/p06_img8.png,6,imagen,03 Emisores compatibles,51,95,98,242,177,557,1,Emisor 1 canal Elite-i (por su posición en la página),60090165
+imagenes/p07_zona1.png,7,zona,04 Esquema de conexionado,63,76,399,309,700,487,8,"Esquema de conexionado: receptor, inversor pulsador y cables numerados 1-4",60090175
+imagenes/p07_zona2.png,7,zona,04 Esquema de conexionado,231,383,389,472,330,186,4,Cabeza de un motor mecánico con sus cables (parte del esquema de conexionado),60090175
+paginas/p07.png,7,pagina,04 Esquema de conexionado,0,0,420,595,875,1241,226,Página del esquema de conexionado con la leyenda de colores,60090175
+imagenes/p08_img1.png,8,imagen,04 Esquema de conexionado,20,207,115,305,194,200,1,,
+imagenes/p08_img2.png,8,imagen,04 Esquema de conexionado,20,327,115,426,345,359,1,,
+imagenes/p08_img3.png,8,imagen,04 Esquema de conexionado,20,87,115,184,194,200,1,,
+imagenes/p08_img4.png,8,imagen,04 Esquema de conexionado,220,44,400,203,699,617,1,"Receptor abierto: placa, bornes y puentes J2 y J3",60090175
+imagenes/p08_img5.png,8,imagen,04 Esquema de conexionado,21,449,115,546,194,200,1,,
+imagenes/p09_zona1.png,9,zona,05 Funcionamiento,288,88,394,208,220,251,7,,
+imagenes/p09_img2.png,9,imagen,05 Funcionamiento,267,251,354,306,321,201,1,,
+imagenes/p09_img3.png,9,imagen,05 Funcionamiento,267,359,295,446,102,320,1,,
+imagenes/p09_img4.png,9,imagen,05 Funcionamiento,304,359,349,402,158,153,1,,
+imagenes/p09_zona5.png,9,zona,05 Funcionamiento,264,475,357,540,196,137,6,,
+paginas/p09.png,9,pagina,05 Funcionamiento,0,0,420,595,875,1241,152,,
+imagenes/p10_img1.png,10,imagen,06 Programación,256,355,287,433,112,283,1,,
+paginas/p10.png,10,pagina,06 Programación,0,0,420,595,875,1241,381,Programación: alimentación del receptor y programar un emisor,60090175
+imagenes/p12_img1.png,12,imagen,07 Copia de emisores,67,262,98,341,112,282,1,,
+paginas/p12.png,12,pagina,07 Copia de emisores,0,0,420,595,875,1241,524,Copiar un emisor desde otro,60090175
+paginas/p13.png,13,pagina,08 Hombre presente,0,0,420,595,875,1241,522,Eliminar un emisor desde otro y hombre presente,60090175
+paginas/p14.png,14,pagina,08 Hombre presente,0,0,420,595,875,1241,699,Activar y desactivar hombre presente,60090175
+paginas/p15.png,15,pagina,09 Borrado completo del receptor,0,0,420,595,875,1241,535,Borrado completo del receptor,60090175

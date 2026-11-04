@@ -1,0 +1,46 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,19,151,332,522,653,773,3,Portada: Motor Elite-i Autotensado,elite_i_autotensado
+imagenes/p06_img1.png,6,imagen,02 Emisores compatibles,228,466,355,521,116,263,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p06_img2.png,6,imagen,02 Emisores compatibles,59,466,181,521,116,252,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p06_img3.png,6,imagen,02 Emisores compatibles,36,308,118,391,173,173,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p06_img4.png,6,imagen,02 Emisores compatibles,173,308,256,390,173,172,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p06_img5.png,6,imagen,02 Emisores compatibles,289,305,392,393,214,184,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p06_img6.png,6,imagen,02 Emisores compatibles,51,96,98,243,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p06_img7.png,6,imagen,02 Emisores compatibles,183,96,230,244,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p06_img8.png,6,imagen,02 Emisores compatibles,313,125,363,214,105,185,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_autotensado
+imagenes/p07_img1.png,7,imagen,03 Conexiones,88,84,235,212,305,267,1,Esquema de conexionado,elite_i_autotensado
+imagenes/p08_img1.png,8,imagen,04 Asignar emisor al motor,276,514,326,559,103,94,1,,
+imagenes/p10_img1.png,10,imagen,04 Asignar emisor al motor,274,198,305,276,65,164,1,Ilustración de «Asignar emisor al motor»,elite_i_autotensado
+imagenes/p10_img2.png,10,imagen,04 Asignar emisor al motor,155,198,186,276,65,164,1,Ilustración de «Asignar emisor al motor»,elite_i_autotensado
+imagenes/p10_zona3.png,10,zona,04 Asignar emisor al motor,330,214,375,260,95,97,2,Ilustración de «Asignar emisor al motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p10_zona4.png,10,zona,04 Asignar emisor al motor,202,214,247,260,95,97,2,Ilustración de «Asignar emisor al motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p10_zona5.png,10,zona,04 Asignar emisor al motor,83,214,128,260,95,97,2,Ilustración de «Asignar emisor al motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p11_zona1.png,11,zona,05 Invertir el sentido de giro,238,226,315,304,161,164,2,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p13_zona1.png,13,zona,06 Finales de carrera,207,243,253,289,97,97,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p13_zona2.png,13,zona,06 Finales de carrera,354,243,400,289,97,97,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p14_zona1.png,14,zona,06 Finales de carrera,82,420,127,466,95,97,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p14_zona2.png,14,zona,06 Finales de carrera,211,420,257,466,95,97,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p14_zona3.png,14,zona,06 Finales de carrera,328,420,373,466,95,97,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p14_img4.png,14,imagen,06 Finales de carrera,210,171,257,217,96,96,1,,
+imagenes/p14_img5.png,14,imagen,06 Finales de carrera,38,404,70,482,66,164,1,Ilustración de «Finales de carrera»,elite_i_autotensado
+imagenes/p16_img1.png,16,imagen,07 Parada intermedia,82,354,128,399,94,96,1,,
+imagenes/p17_zona1.png,17,zona,07 Parada intermedia,64,204,141,296,161,191,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p17_zona2.png,17,zona,07 Parada intermedia,289,211,364,289,159,164,4,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p17_zona3.png,17,zona,07 Parada intermedia,91,513,136,559,95,97,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p17_zona4.png,17,zona,07 Parada intermedia,214,513,259,559,95,97,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p17_zona5.png,17,zona,07 Parada intermedia,336,513,382,559,95,97,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p19_zona1.png,19,zona,08 Emisores programados en el motor,93,222,138,268,95,97,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p19_zona2.png,19,zona,08 Emisores programados en el motor,220,222,265,268,95,97,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p19_zona3.png,19,zona,08 Emisores programados en el motor,348,222,393,268,95,97,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p20_zona1.png,20,zona,08 Emisores programados en el motor,86,203,131,248,95,97,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p20_zona2.png,20,zona,08 Emisores programados en el motor,208,203,253,248,95,97,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p20_zona3.png,20,zona,08 Emisores programados en el motor,325,203,370,248,95,97,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p21_zona1.png,21,zona,09 Hombre presente,91,73,136,119,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p21_zona2.png,21,zona,09 Hombre presente,208,73,253,119,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p21_zona3.png,21,zona,09 Hombre presente,336,73,382,119,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p22_zona1.png,22,zona,09 Hombre presente,76,214,121,260,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p22_zona2.png,22,zona,09 Hombre presente,205,214,250,260,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p22_zona3.png,22,zona,09 Hombre presente,334,214,379,260,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p22_zona4.png,22,zona,09 Hombre presente,76,457,121,502,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p22_zona5.png,22,zona,09 Hombre presente,205,457,250,502,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado
+imagenes/p22_zona6.png,22,zona,09 Hombre presente,334,457,379,502,95,96,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),elite_i_autotensado

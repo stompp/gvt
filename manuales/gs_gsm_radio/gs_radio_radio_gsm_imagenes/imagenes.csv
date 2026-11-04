@@ -1,0 +1,36 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,-47,60,449,510,875,937,23,Portada: motor GS/GSM Radio,gs_radio|radio_gsm
+imagenes/p04_zona1.png,4,zona,,228,371,306,575,164,427,33,,
+imagenes/p04_zona2.png,4,zona,,114,371,199,575,179,427,50,,
+paginas/p04.png,4,pagina,,0,0,420,595,875,1241,143,"Descripción y pictogramas de advertencia (no mojar, no lavar a presión, no golpear, no taladrar, cable hacia abajo)",gs_radio|radio_gsm
+imagenes/p05_img1.png,5,imagen,,112,80,163,238,177,545,1,,
+imagenes/p05_img2.png,5,imagen,,249,80,305,238,200,561,1,,
+imagenes/p05_img3.png,5,imagen,,25,292,129,382,434,375,1,,
+imagenes/p05_zona4.png,5,zona,,24,434,90,514,139,168,6,,
+imagenes/p05_img5.png,5,imagen,,164,292,269,382,434,375,1,,
+imagenes/p05_img6.png,5,imagen,,294,292,398,382,434,375,1,,
+imagenes/p05_zona7.png,5,zona,,276,452,400,500,258,102,3,,
+imagenes/p05_zona8.png,5,zona,,155,449,266,503,233,114,8,,
+imagenes/p06_zona1.png,6,zona,,324,90,400,187,160,201,2,,
+imagenes/p06_img2.png,6,imagen,,336,193,394,243,242,210,1,,
+imagenes/p06_zona3.png,6,zona,,336,372,390,437,114,138,6,,
+imagenes/p06_img4.png,6,imagen,,336,250,394,300,242,210,1,,
+imagenes/p06_img5.png,6,imagen,,336,307,394,357,242,210,1,,
+imagenes/p06_zona6.png,6,zona,,49,270,220,442,359,359,15,"Esquema de conexionado del motor (tierra, neutro, fase)",gs_radio|radio_gsm
+imagenes/p07_zona1.png,7,zona,,321,388,358,479,77,189,2,,
+imagenes/p07_zona2.png,7,zona,,370,388,406,479,77,189,2,,
+imagenes/p07_zona3.png,7,zona,,330,280,358,366,59,180,6,,
+imagenes/p07_zona4.png,7,zona,,376,280,403,366,59,180,6,,
+paginas/p07.png,7,pagina,,0,0,420,595,875,1241,373,Programación del primer emisor y sentido de giro (P2 P2 + Subida o Bajada),gs_radio|radio_gsm
+imagenes/p08_zona1.png,8,zona,,151,160,254,280,216,251,3,Cabeza del motor con las flechas 1 y 2 y los tornillos de regulación A y B,gs_radio|radio_gsm
+imagenes/p09_zona1.png,9,zona,,328,81,358,172,62,190,6,,
+imagenes/p09_zona2.png,9,zona,,328,184,358,275,62,191,6,,
+paginas/p09.png,9,pagina,,0,0,420,595,875,1241,186,Copia de emisores y modo hombre presente,gs_radio|radio_gsm
+imagenes/p10_img1.png,10,imagen,,325,356,364,395,164,170,1,,
+imagenes/p10_img2.png,10,imagen,,369,211,408,306,219,545,1,,
+imagenes/p10_zona3.png,10,zona,,334,213,363,304,63,191,6,,
+imagenes/p10_zona4.png,10,zona,,374,320,403,411,62,191,6,,
+imagenes/p11_zona1.png,11,zona,,306,83,335,174,62,190,6,,
+imagenes/p11_zona2.png,11,zona,,363,194,392,285,62,191,6,,
+imagenes/p11_img3.png,11,imagen,,358,83,397,178,219,545,1,,
+paginas/p11.png,11,pagina,,0,0,420,595,875,1241,189,"Borrado completo de la memoria (P2, Stop, P2)",gs_radio|radio_gsm

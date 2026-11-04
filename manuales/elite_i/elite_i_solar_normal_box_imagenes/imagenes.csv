@@ -1,0 +1,83 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_img1.png,1,imagen,,31,172,401,484,1540,1297,1,,
+imagenes/p06_img1.png,6,imagen,01 Datos técnicos del motor,20,113,393,257,1555,598,1,Producto con cotas o ficha técnica,elite_i_solar_normal_box
+imagenes/p07_zona1.png,7,zona,01 Datos técnicos del motor,227,168,331,279,218,231,2,Producto con cotas o ficha técnica,elite_i_solar_normal_box
+imagenes/p07_zona2.png,7,zona,01 Datos técnicos del motor,231,370,336,480,219,230,2,Producto con cotas o ficha técnica,elite_i_solar_normal_box
+paginas/p07.png,7,pagina,01 Datos técnicos del motor,0,0,420,595,875,1241,341,Página 7 renderizada: Datos técnicos del motor (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p08_zona1.png,8,zona,01 Datos técnicos del motor,223,346,327,457,219,231,2,Producto con cotas o ficha técnica,elite_i_solar_normal_box
+imagenes/p08_zona2.png,8,zona,01 Datos técnicos del motor,223,142,327,252,219,231,2,Producto con cotas o ficha técnica,elite_i_solar_normal_box
+paginas/p08.png,8,pagina,01 Datos técnicos del motor,0,0,420,595,875,1241,341,Página 8 renderizada: Datos técnicos del motor (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p09_img1.png,9,imagen,02 Funciones del mando a distancia,193,91,249,245,234,641,1,Ilustración de «Funciones del mando a distancia»,elite_i_solar_normal_box
+imagenes/p09_img2.png,9,imagen,02 Funciones del mando a distancia,149,258,210,410,254,631,1,Ilustración de «Funciones del mando a distancia»,elite_i_solar_normal_box
+imagenes/p10_img1.png,10,imagen,02 Funciones del mando a distancia,219,475,250,555,127,334,1,Ilustración de «Funciones del mando a distancia»,elite_i_solar_normal_box
+imagenes/p10_img2.png,10,imagen,02 Funciones del mando a distancia,49,460,153,570,310,361,1,Ilustración de «Funciones del mando a distancia»,elite_i_solar_normal_box
+paginas/p10.png,10,pagina,02 Funciones del mando a distancia,0,0,420,595,875,1241,348,Página 10 renderizada: Funciones del mando a distancia (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p11_zona1.png,11,zona,04 Invertir el sentido de giro,28,210,59,290,64,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p11_zona2.png,11,zona,04 Invertir el sentido de giro,294,210,324,290,65,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p11_zona3.png,11,zona,04 Invertir el sentido de giro,155,210,185,290,65,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p11.png,11,pagina,04 Invertir el sentido de giro,0,0,420,595,875,1241,492,Página 11 renderizada: Invertir el sentido de giro (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p12_zona1.png,12,zona,05 Cambio de modo Elite-i o Elite-i box,58,251,91,329,68,163,2,Ilustración de «Cambio de modo Elite-i o Elite-i box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p12_zona2.png,12,zona,05 Cambio de modo Elite-i o Elite-i box,58,482,91,560,68,163,2,Ilustración de «Cambio de modo Elite-i o Elite-i box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p12_zona3.png,12,zona,05 Cambio de modo Elite-i o Elite-i box,161,250,191,330,64,167,4,Ilustración de «Cambio de modo Elite-i o Elite-i box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p12_zona4.png,12,zona,05 Cambio de modo Elite-i o Elite-i box,267,250,297,330,65,167,4,Ilustración de «Cambio de modo Elite-i o Elite-i box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p12_zona5.png,12,zona,05 Cambio de modo Elite-i o Elite-i box,161,481,191,561,64,167,4,Ilustración de «Cambio de modo Elite-i o Elite-i box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p12_zona6.png,12,zona,05 Cambio de modo Elite-i o Elite-i box,267,481,297,561,65,167,4,Ilustración de «Cambio de modo Elite-i o Elite-i box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p12.png,12,pagina,05 Cambio de modo Elite-i o Elite-i box,0,0,420,595,875,1241,969,Página 12 renderizada: Cambio de modo Elite-i o Elite-i box (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p13_zona1.png,13,zona,06 Programación modo Elite-i,36,262,67,342,64,167,3,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p13_zona2.png,13,zona,06 Programación modo Elite-i,151,262,181,342,65,167,3,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p13_zona3.png,13,zona,06 Programación modo Elite-i,290,262,320,342,64,167,3,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p13.png,13,pagina,06 Programación modo Elite-i,0,0,420,595,875,1241,497,Página 13 renderizada: Programación modo Elite-i (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p14_zona1.png,14,zona,06 Programación modo Elite-i,170,226,200,306,65,167,3,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p14_zona2.png,14,zona,06 Programación modo Elite-i,292,226,322,306,65,167,3,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p14_zona3.png,14,zona,06 Programación modo Elite-i,58,226,88,306,64,167,3,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p14.png,14,pagina,06 Programación modo Elite-i,0,0,420,595,875,1241,449,Página 14 renderizada: Programación modo Elite-i (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p16_zona1.png,16,zona,06 Programación modo Elite-i,245,230,275,310,64,168,2,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p16_zona2.png,16,zona,06 Programación modo Elite-i,249,496,280,576,64,167,2,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p16.png,16,pagina,06 Programación modo Elite-i,0,0,420,595,875,1241,316,Página 16 renderizada: Programación modo Elite-i (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p17_zona1.png,17,zona,06 Programación modo Elite-i,70,207,102,285,68,163,2,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p17_zona2.png,17,zona,06 Programación modo Elite-i,284,207,316,285,69,163,2,Ilustración de «Programación modo Elite-i» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p17.png,17,pagina,06 Programación modo Elite-i,0,0,420,595,875,1241,485,Página 17 renderizada: Programación modo Elite-i (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p18_img1.png,18,imagen,07 Programación modo Elite-i Box,73,288,123,337,206,206,1,Ilustración de «Programación modo Elite-i Box»,elite_i_solar_normal_box
+imagenes/p18_zona2.png,18,zona,07 Programación modo Elite-i Box,20,271,50,351,64,167,3,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p18_zona3.png,18,zona,07 Programación modo Elite-i Box,129,271,160,351,64,167,3,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p18_zona4.png,18,zona,07 Programación modo Elite-i Box,268,271,299,351,65,167,3,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p18_zona5.png,18,zona,07 Programación modo Elite-i Box,189,288,239,337,103,104,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p18_zona6.png,18,zona,07 Programación modo Elite-i Box,344,288,393,337,104,104,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p19_img1.png,19,imagen,07 Programación modo Elite-i Box,112,383,161,433,206,206,1,Ilustración de «Programación modo Elite-i Box»,elite_i_solar_normal_box
+imagenes/p19_zona2.png,19,zona,07 Programación modo Elite-i Box,55,367,85,447,64,168,3,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p19_zona3.png,19,zona,07 Programación modo Elite-i Box,188,367,218,447,65,168,3,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p19_zona4.png,19,zona,07 Programación modo Elite-i Box,228,383,278,433,104,104,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p19_zona5.png,19,zona,07 Programación modo Elite-i Box,309,367,385,447,158,168,5,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p21_zona1.png,21,zona,07 Programación modo Elite-i Box,97,223,147,272,104,104,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p21_zona2.png,21,zona,07 Programación modo Elite-i Box,221,223,270,272,104,104,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p21_zona3.png,21,zona,07 Programación modo Elite-i Box,57,207,90,285,69,163,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p21_zona4.png,21,zona,07 Programación modo Elite-i Box,289,207,321,285,69,163,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p21_img5.png,21,imagen,07 Programación modo Elite-i Box,333,236,371,259,158,98,1,Ilustración de «Programación modo Elite-i Box»,elite_i_solar_normal_box
+imagenes/p22_zona1.png,22,zona,07 Programación modo Elite-i Box,38,207,70,285,69,163,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p22_zona2.png,22,zona,07 Programación modo Elite-i Box,19,465,100,542,170,164,4,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p22_zona3.png,22,zona,07 Programación modo Elite-i Box,150,483,199,532,104,104,2,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p22_zona4.png,22,zona,07 Programación modo Elite-i Box,112,206,142,286,64,167,4,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p22_zona5.png,22,zona,07 Programación modo Elite-i Box,187,206,217,286,65,167,4,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p22_zona6.png,22,zona,07 Programación modo Elite-i Box,108,464,138,543,64,168,4,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p22_zona7.png,22,zona,07 Programación modo Elite-i Box,206,461,237,541,65,168,4,Ilustración de «Programación modo Elite-i Box» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p23_img1.png,23,imagen,08 Parada intermedia,69,374,102,452,136,325,1,Ilustración de «Parada intermedia»,elite_i_solar_normal_box
+imagenes/p23_zona2.png,23,zona,08 Parada intermedia,172,373,202,453,65,168,2,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p23_zona3.png,23,zona,08 Parada intermedia,279,373,309,453,64,168,2,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p23.png,23,pagina,08 Parada intermedia,0,0,420,595,875,1241,484,Página 23 renderizada: Parada intermedia (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p24_zona1.png,24,zona,08 Parada intermedia,273,206,304,286,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p24_zona2.png,24,zona,08 Parada intermedia,166,206,197,286,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p24_zona3.png,24,zona,08 Parada intermedia,76,206,107,286,64,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p24_zona4.png,24,zona,08 Parada intermedia,164,496,194,576,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p24_zona5.png,24,zona,08 Parada intermedia,270,496,301,576,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p24.png,24,pagina,08 Parada intermedia,0,0,420,595,875,1241,1253,Página 24 renderizada: Parada intermedia (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p25_zona1.png,25,zona,09 Emisores programados en el motor,75,279,108,357,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p25_zona2.png,25,zona,09 Emisores programados en el motor,193,279,226,357,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p25_zona3.png,25,zona,09 Emisores programados en el motor,297,279,330,357,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p25.png,25,pagina,09 Emisores programados en el motor,0,0,420,595,875,1241,484,Página 25 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p26_zona1.png,26,zona,09 Emisores programados en el motor,63,384,95,462,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p26_zona2.png,26,zona,09 Emisores programados en el motor,175,384,208,462,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p26_zona3.png,26,zona,09 Emisores programados en el motor,288,384,320,462,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p26.png,26,pagina,09 Emisores programados en el motor,0,0,420,595,875,1241,487,Página 26 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i_solar_normal_box
+imagenes/p27_zona1.png,27,zona,09 Emisores programados en el motor,73,401,106,479,69,164,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+imagenes/p27_zona2.png,27,zona,09 Emisores programados en el motor,280,401,313,479,69,164,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),elite_i_solar_normal_box
+paginas/p27.png,27,pagina,09 Emisores programados en el motor,0,0,420,595,875,1241,486,Página 27 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i_solar_normal_box

@@ -1,0 +1,10 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_img1.png,1,imagen,,140,180,260,445,251,554,1,,
+imagenes/p06_img1.png,6,imagen,02 Emisores compatibles,180,85,239,255,123,356,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),central_sv_elite_i
+imagenes/p07_img1.png,7,imagen,02 Emisores compatibles,61,129,179,387,244,538,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),central_sv_elite_i
+imagenes/p09_img1.png,9,imagen,06 Programación de la central,297,399,329,471,68,149,1,Ilustración de «Programación de la central»,central_sv_elite_i
+imagenes/p09_img2.png,9,imagen,06 Programación de la central,60,394,92,472,66,164,1,Ilustración de «Programación de la central»,central_sv_elite_i
+imagenes/p11_img1.png,11,imagen,08 Activación del modo de funcionamiento,81,211,110,289,60,164,1,Ilustración de «Activación del modo de funcionamiento»,central_sv_elite_i
+imagenes/p12_img1.png,12,imagen,08 Activación del modo de funcionamiento,42,360,83,398,69,66,1,,
+imagenes/p12_img2.png,12,imagen,08 Activación del modo de funcionamiento,28,467,97,506,127,74,1,Ilustración de «Activación del modo de funcionamiento»,central_sv_elite_i
+imagenes/p12_img3.png,12,imagen,08 Activación del modo de funcionamiento,48,516,77,564,62,103,1,,

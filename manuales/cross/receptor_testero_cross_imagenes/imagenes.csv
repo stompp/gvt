@@ -1,0 +1,41 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,22,181,386,453,759,567,8,Portada: receptor testero Cross y emisor,receptor_testero_cross
+imagenes/p04_img1.png,4,imagen,,74,391,345,596,363,275,1,Descripción: receptor oculto en el testero,receptor_testero_cross
+imagenes/p05_zona1.png,5,zona,,20,123,400,281,794,331,4,Receptor con cotas (108/121 × 36 × 22 mm) y botón S2,receptor_testero_cross
+imagenes/p06_zona1.png,6,zona,,276,452,400,500,258,102,3,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p06_zona2.png,6,zona,,24,434,90,514,139,168,6,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p06_img3.png,6,imagen,,113,79,162,230,177,545,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p06_img4.png,6,imagen,,252,79,305,230,200,561,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p06_img5.png,6,imagen,,25,283,129,373,434,375,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p06_img6.png,6,imagen,,164,283,269,373,434,375,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p06_img7.png,6,imagen,,294,283,398,373,434,375,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p06_zona8.png,6,zona,,155,449,266,503,233,114,8,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_testero_cross
+imagenes/p07_zona1.png,7,zona,,63,71,399,304,700,487,8,"Esquema de conexionado: tierra, neutro, marrón y negro (subida o bajada), motor e inversor pulsador",receptor_testero_cross
+imagenes/p07_zona2.png,7,zona,,231,378,388,467,329,185,11,"Esquema de conexionado: tierra, neutro, marrón y negro (subida o bajada), motor e inversor pulsador",receptor_testero_cross
+paginas/p07.png,7,pagina,,0,0,420,595,875,1241,174,"Esquema de conexionado: tierra, neutro, marrón y negro (subida o bajada), motor e inversor pulsador (página entera)",receptor_testero_cross
+imagenes/p08_img1.png,8,imagen,,20,207,115,305,194,200,1,Puentes J2 y J3 y sus modos,receptor_testero_cross
+imagenes/p08_img2.png,8,imagen,,20,327,115,426,345,359,1,Puentes J2 y J3 y sus modos,receptor_testero_cross
+imagenes/p08_img3.png,8,imagen,,20,87,115,184,194,200,1,Puentes J2 y J3 y sus modos,receptor_testero_cross
+imagenes/p08_zona4.png,8,zona,,220,44,400,202,376,331,5,Puentes J2 y J3 y sus modos,receptor_testero_cross
+imagenes/p08_img5.png,8,imagen,,21,449,115,546,194,200,1,Puentes J2 y J3 y sus modos,receptor_testero_cross
+imagenes/p09_img1.png,9,imagen,,312,349,341,436,121,360,1,"Funcionamiento: finales mecánicos, inversor pulsador, dos puntos de luz",receptor_testero_cross
+imagenes/p09_zona2.png,9,zona,,353,371,397,407,91,77,4,"Funcionamiento: finales mecánicos, inversor pulsador, dos puntos de luz",receptor_testero_cross
+imagenes/p09_zona3.png,9,zona,,306,474,400,541,196,142,6,"Funcionamiento: finales mecánicos, inversor pulsador, dos puntos de luz",receptor_testero_cross
+imagenes/p09_zona4.png,9,zona,,288,66,393,204,220,288,10,"Funcionamiento: finales mecánicos, inversor pulsador, dos puntos de luz",receptor_testero_cross
+imagenes/p09_zona5.png,9,zona,,314,261,400,315,180,113,6,"Funcionamiento: finales mecánicos, inversor pulsador, dos puntos de luz",receptor_testero_cross
+paginas/p09.png,9,pagina,,0,0,420,595,875,1241,110,"Funcionamiento: finales mecánicos, inversor pulsador, dos puntos de luz (página entera)",receptor_testero_cross
+imagenes/p10_zona1.png,10,zona,,338,139,400,202,130,132,2,"Programación: corriente ON, P2 ×2 y Subida; inversión con J3",receptor_testero_cross
+imagenes/p10_zona2.png,10,zona,,329,506,391,569,131,132,2,"Programación: corriente ON, P2 ×2 y Subida; inversión con J3",receptor_testero_cross
+imagenes/p10_zona3.png,10,zona,,316,383,355,479,82,201,2,"Programación: corriente ON, P2 ×2 y Subida; inversión con J3",receptor_testero_cross
+imagenes/p10_zona4.png,10,zona,,368,383,406,479,81,201,2,"Programación: corriente ON, P2 ×2 y Subida; inversión con J3",receptor_testero_cross
+imagenes/p10_zona5.png,10,zona,,319,265,349,357,62,190,6,"Programación: corriente ON, P2 ×2 y Subida; inversión con J3",receptor_testero_cross
+imagenes/p10_zona6.png,10,zona,,371,265,400,357,62,190,6,"Programación: corriente ON, P2 ×2 y Subida; inversión con J3",receptor_testero_cross
+imagenes/p12_zona1.png,12,zona,,297,81,327,172,62,190,6,Copia de emisores,receptor_testero_cross
+imagenes/p12_zona2.png,12,zona,,297,184,327,275,62,191,6,Copia de emisores,receptor_testero_cross
+imagenes/p12_img3.png,12,imagen,,339,283,384,329,164,170,1,Copia de emisores,receptor_testero_cross
+imagenes/p13_img1.png,13,imagen,,369,378,408,474,219,545,1,"Hombre presente (P2, Subida, P2)",receptor_testero_cross
+imagenes/p13_zona2.png,13,zona,,334,380,363,471,63,190,6,"Hombre presente (P2, Subida, P2)",receptor_testero_cross
+imagenes/p13_zona3.png,13,zona,,374,487,403,578,62,190,6,"Hombre presente (P2, Subida, P2)",receptor_testero_cross
+imagenes/p15_zona1.png,15,zona,,319,56,349,147,62,190,3,Modo iluminación con J2: P2 ×2 y Subida,receptor_testero_cross
+imagenes/p16_zona1.png,16,zona,,320,114,349,205,62,190,6,"Borrado completo: P2, Stop, P2 o S2 10 s",receptor_testero_cross
+imagenes/p16_zona2.png,16,zona,,371,222,401,313,62,191,6,"Borrado completo: P2, Stop, P2 o S2 10 s",receptor_testero_cross

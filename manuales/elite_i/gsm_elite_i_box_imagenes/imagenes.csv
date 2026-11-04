@@ -1,0 +1,81 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_img1.png,1,imagen,,0,179,400,534,1666,1479,1,,
+imagenes/p05_img1.png,5,imagen,02 Emisores compatibles,44,308,127,390,343,343,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p05_img2.png,5,imagen,02 Emisores compatibles,181,308,264,390,343,341,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p05_img3.png,5,imagen,02 Emisores compatibles,297,304,401,394,434,375,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p05_img4.png,5,imagen,02 Emisores compatibles,59,95,107,244,201,622,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p05_img5.png,5,imagen,02 Emisores compatibles,191,95,239,244,201,622,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p05_img6.png,5,imagen,02 Emisores compatibles,322,126,371,214,206,367,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p05_img7.png,5,imagen,02 Emisores compatibles,237,466,363,521,228,525,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p05_img8.png,5,imagen,02 Emisores compatibles,68,466,189,521,228,504,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),gsm_elite_i_box
+imagenes/p06_img1.png,6,imagen,03 Conexiones,51,89,223,219,717,540,1,Esquema de conexionado,gsm_elite_i_box
+imagenes/p07_img1.png,7,imagen,04 Asignar emisor al motor,284,513,335,559,213,190,1,Ilustración de «Asignar emisor al motor»,gsm_elite_i_box
+imagenes/p09_img1.png,9,imagen,04 Asignar emisor al motor,268,111,298,191,127,334,1,Ilustración de «Asignar emisor al motor»,gsm_elite_i_box
+paginas/p09.png,9,pagina,04 Asignar emisor al motor,0,0,420,595,875,1241,174,Página 9 renderizada: Asignar emisor al motor (pasos con botones y respuestas),gsm_elite_i_box
+imagenes/p10_zona1.png,10,zona,05 Invertir el sentido de giro,20,210,50,290,64,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p10_zona2.png,10,zona,05 Invertir el sentido de giro,283,210,313,290,64,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p10_zona3.png,10,zona,05 Invertir el sentido de giro,140,210,170,290,65,168,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p10_zona4.png,10,zona,05 Invertir el sentido de giro,87,226,137,276,104,104,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p10_zona5.png,10,zona,05 Invertir el sentido de giro,350,226,400,276,104,104,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p10_zona6.png,10,zona,05 Invertir el sentido de giro,231,226,280,276,104,104,3,Ilustración de «Invertir el sentido de giro» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p12_img1.png,12,imagen,06 Finales de carrera,73,242,123,292,206,206,1,Ilustración de «Finales de carrera»,gsm_elite_i_box
+imagenes/p12_zona2.png,12,zona,06 Finales de carrera,20,226,50,306,64,167,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p12_zona3.png,12,zona,06 Finales de carrera,129,226,160,306,64,167,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p12_zona4.png,12,zona,06 Finales de carrera,268,226,299,306,65,167,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p12_zona5.png,12,zona,06 Finales de carrera,189,242,239,292,103,104,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p12_zona6.png,12,zona,06 Finales de carrera,344,242,393,292,104,104,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p13_img1.png,13,imagen,06 Finales de carrera,112,383,161,433,206,206,1,Ilustración de «Finales de carrera»,gsm_elite_i_box
+imagenes/p13_zona2.png,13,zona,06 Finales de carrera,55,367,85,447,64,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p13_zona3.png,13,zona,06 Finales de carrera,188,367,218,447,65,168,3,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p13_zona4.png,13,zona,06 Finales de carrera,228,383,278,433,104,104,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p13_zona5.png,13,zona,06 Finales de carrera,309,367,385,447,158,168,5,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p14_zona1.png,14,zona,06 Finales de carrera,89,223,138,272,104,104,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p14_zona2.png,14,zona,06 Finales de carrera,212,223,262,272,104,104,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p14_zona3.png,14,zona,06 Finales de carrera,48,207,81,285,69,163,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p14_zona4.png,14,zona,06 Finales de carrera,280,207,313,285,69,163,2,Ilustración de «Finales de carrera» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p14_img5.png,14,imagen,06 Finales de carrera,325,236,363,259,158,98,1,Ilustración de «Finales de carrera»,gsm_elite_i_box
+imagenes/p16_img1.png,16,imagen,07 Parada intermedia,46,335,79,413,136,325,1,Ilustración de «Parada intermedia»,gsm_elite_i_box
+imagenes/p16_zona2.png,16,zona,07 Parada intermedia,157,334,187,414,64,167,2,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p16_zona3.png,16,zona,07 Parada intermedia,274,334,305,414,64,167,2,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p16_zona4.png,16,zona,07 Parada intermedia,92,363,130,386,79,50,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p16_zona5.png,16,zona,07 Parada intermedia,209,363,247,386,80,50,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p16_zona6.png,16,zona,07 Parada intermedia,327,363,365,386,80,50,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona1.png,17,zona,07 Parada intermedia,220,200,271,271,108,148,4,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona2.png,17,zona,07 Parada intermedia,296,206,373,286,161,167,6,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona3.png,17,zona,07 Parada intermedia,64,200,147,286,173,180,9,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona4.png,17,zona,07 Parada intermedia,171,206,202,286,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona5.png,17,zona,07 Parada intermedia,166,496,196,576,65,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona6.png,17,zona,07 Parada intermedia,282,496,313,576,64,167,5,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona7.png,17,zona,07 Parada intermedia,101,526,138,549,80,50,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona8.png,17,zona,07 Parada intermedia,217,526,255,549,80,50,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p17_zona9.png,17,zona,07 Parada intermedia,334,526,372,549,80,50,3,Ilustración de «Parada intermedia» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p18_zona1.png,18,zona,08 Emisores programados en el motor,292,279,325,357,68,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p18_zona2.png,18,zona,08 Emisores programados en el motor,55,279,88,357,68,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p18_zona3.png,18,zona,08 Emisores programados en el motor,181,279,213,357,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p18_zona4.png,18,zona,08 Emisores programados en el motor,336,308,374,331,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p18_zona5.png,18,zona,08 Emisores programados en el motor,99,308,137,331,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p18_zona6.png,18,zona,08 Emisores programados en el motor,225,308,263,331,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p19_zona1.png,19,zona,08 Emisores programados en el motor,300,385,333,463,68,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p19_zona2.png,19,zona,08 Emisores programados en el motor,60,385,93,463,68,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p19_zona3.png,19,zona,08 Emisores programados en el motor,180,385,212,463,69,163,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p19_zona4.png,19,zona,08 Emisores programados en el motor,344,413,382,436,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p19_zona5.png,19,zona,08 Emisores programados en el motor,104,413,142,436,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p19_zona6.png,19,zona,08 Emisores programados en el motor,224,413,262,436,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p20_zona1.png,20,zona,08 Emisores programados en el motor,52,401,84,479,69,164,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p20_zona2.png,20,zona,08 Emisores programados en el motor,277,401,309,479,69,164,2,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p20_zona3.png,20,zona,08 Emisores programados en el motor,96,430,134,453,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p20_zona4.png,20,zona,08 Emisores programados en el motor,213,430,251,453,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p20_zona5.png,20,zona,08 Emisores programados en el motor,321,430,359,453,80,50,3,Ilustración de «Emisores programados en el motor» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+paginas/p21.png,21,pagina,09 Hombre presente,0,0,420,595,875,1241,172,Página 21 renderizada: Hombre presente (pasos con botones y respuestas),gsm_elite_i_box
+imagenes/p22_zona1.png,22,zona,09 Hombre presente,41,198,74,276,69,163,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona2.png,22,zona,09 Hombre presente,41,441,74,519,69,163,2,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona3.png,22,zona,09 Hombre presente,274,197,304,277,64,167,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona4.png,22,zona,09 Hombre presente,150,197,181,277,64,167,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona5.png,22,zona,09 Hombre presente,274,440,304,520,64,167,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona6.png,22,zona,09 Hombre presente,150,440,181,520,64,167,4,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona7.png,22,zona,09 Hombre presente,333,226,371,250,80,50,6,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona8.png,22,zona,09 Hombre presente,209,226,247,250,80,50,6,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona9.png,22,zona,09 Hombre presente,85,226,123,250,79,50,6,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona10.png,22,zona,09 Hombre presente,332,470,370,493,80,50,6,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona11.png,22,zona,09 Hombre presente,209,470,247,493,80,50,6,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box
+imagenes/p22_zona12.png,22,zona,09 Hombre presente,85,470,123,493,79,50,6,Ilustración de «Hombre presente» (emisor con el botón que se pulsa y respuesta),gsm_elite_i_box

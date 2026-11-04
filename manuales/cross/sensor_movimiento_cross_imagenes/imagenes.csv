@@ -1,0 +1,19 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,36,187,384,459,726,569,4,Portada: sensor de movimiento Cross,sensor_movimiento_cross
+imagenes/p04_zona1.png,4,zona,,110,530,172,578,130,102,16,Sensor en la barra de carga del toldo,sensor_movimiento_cross
+imagenes/p04_zona2.png,4,zona,,110,442,172,490,130,101,16,Sensor en la barra de carga del toldo,sensor_movimiento_cross
+imagenes/p04_zona3.png,4,zona,,239,530,301,578,130,102,16,Sensor en la barra de carga del toldo,sensor_movimiento_cross
+imagenes/p04_zona4.png,4,zona,,239,442,301,490,130,101,16,Sensor en la barra de carga del toldo,sensor_movimiento_cross
+paginas/p04.png,4,pagina,,0,0,420,595,875,1241,142,Sensor en la barra de carga del toldo (página entera),sensor_movimiento_cross
+imagenes/p05_zona1.png,5,zona,,90,110,326,295,493,386,5,Sensor con cotas (150 × 40 × 25 mm),sensor_movimiento_cross
+imagenes/p05_zona2.png,5,zona,,169,364,400,513,482,311,12,Sensor con cotas (150 × 40 × 25 mm),sensor_movimiento_cross
+imagenes/p06_img1.png,6,imagen,,113,79,162,230,177,545,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),sensor_movimiento_cross
+imagenes/p06_img2.png,6,imagen,,252,79,305,230,200,561,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),sensor_movimiento_cross
+imagenes/p06_img3.png,6,imagen,,25,283,129,373,434,375,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),sensor_movimiento_cross
+imagenes/p06_img4.png,6,imagen,,164,283,269,373,434,375,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),sensor_movimiento_cross
+imagenes/p06_img5.png,6,imagen,,294,283,398,373,434,375,1,Emisores compatibles Cross (foto; ver la lista de la p. 6),sensor_movimiento_cross
+imagenes/p06_zona6.png,6,zona,,159,434,225,514,139,168,6,Emisores compatibles Cross (foto; ver la lista de la p. 6),sensor_movimiento_cross
+imagenes/p07_zona1.png,7,zona,,331,187,391,326,127,291,4,Potenciómetro de 9 posiciones,sensor_movimiento_cross
+imagenes/p08_zona1.png,8,zona,,284,223,340,352,118,270,4,"Programación: potenciómetro en 0, P2 ×2 en el emisor y S2 en el sensor",sensor_movimiento_cross
+imagenes/p08_zona2.png,8,zona,,297,103,327,194,62,191,3,"Programación: potenciómetro en 0, P2 ×2 en el emisor y S2 en el sensor",sensor_movimiento_cross
+paginas/p08.png,8,pagina,,0,0,420,595,875,1241,179,"Programación: potenciómetro en 0, P2 ×2 en el emisor y S2 en el sensor (página entera)",sensor_movimiento_cross

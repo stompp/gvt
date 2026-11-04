@@ -1,0 +1,13 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,19,151,401,522,796,773,4,Portada: Motor GSM Elite-i,gsm_elite_i
+imagenes/p04_img1.png,4,imagen,02 Emisores compatibles,36,308,118,391,83,83,1,,
+imagenes/p04_img2.png,4,imagen,02 Emisores compatibles,173,308,256,390,83,83,1,,
+imagenes/p04_img3.png,4,imagen,02 Emisores compatibles,289,305,392,393,103,89,1,,
+imagenes/p05_img1.png,5,imagen,03 Conexiones,62,90,235,218,173,129,1,Esquema de conexionado,gsm_elite_i
+paginas/p08.png,8,pagina,05 Invertir el sentido de giro,0,0,420,595,875,1241,711,Página 8 renderizada: Invertir el sentido de giro (pasos con botones y respuestas),gsm_elite_i
+imagenes/p09_img1.png,9,imagen,06 Finales de carrera,159,136,258,256,99,121,1,Ilustración de «Finales de carrera»,gsm_elite_i
+paginas/p10.png,10,pagina,06 Finales de carrera,0,0,420,595,875,1241,530,Página 10 renderizada: Finales de carrera (pasos con botones y respuestas),gsm_elite_i
+paginas/p11.png,11,pagina,07 Emisores programados en el motor,0,0,420,595,875,1241,524,Página 11 renderizada: Emisores programados en el motor (pasos con botones y respuestas),gsm_elite_i
+paginas/p12.png,12,pagina,07 Emisores programados en el motor,0,0,420,595,875,1241,524,Página 12 renderizada: Emisores programados en el motor (pasos con botones y respuestas),gsm_elite_i
+paginas/p13.png,13,pagina,08 Hombre presente,0,0,420,595,875,1241,522,Página 13 renderizada: Hombre presente (pasos con botones y respuestas),gsm_elite_i
+paginas/p14.png,14,pagina,08 Hombre presente,0,0,420,595,875,1241,1041,Página 14 renderizada: Hombre presente (pasos con botones y respuestas),gsm_elite_i

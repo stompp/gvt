@@ -1,0 +1,27 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,19,151,421,522,835,773,3,Portada: Motor Elite-i,elite_i
+imagenes/p05_img1.png,5,imagen,02 Emisores compatibles,321,125,372,214,105,185,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p05_img2.png,5,imagen,02 Emisores compatibles,237,466,363,521,116,263,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p05_img3.png,5,imagen,02 Emisores compatibles,68,466,189,521,116,252,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p05_img4.png,5,imagen,02 Emisores compatibles,44,308,127,391,173,173,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p05_img5.png,5,imagen,02 Emisores compatibles,181,308,264,390,173,172,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p05_img6.png,5,imagen,02 Emisores compatibles,297,305,400,393,214,184,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p05_img7.png,5,imagen,02 Emisores compatibles,60,96,107,243,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p05_img8.png,5,imagen,02 Emisores compatibles,192,96,239,244,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i
+imagenes/p06_img1.png,6,imagen,03 Conexiones,80,84,226,212,305,267,1,Esquema de conexionado,elite_i
+imagenes/p07_img1.png,7,imagen,04 Asignar emisor al motor,285,514,334,559,103,94,1,,
+imagenes/p09_img1.png,9,imagen,04 Asignar emisor al motor,274,198,305,276,65,164,1,Ilustración de «Asignar emisor al motor»,elite_i
+imagenes/p09_img2.png,9,imagen,04 Asignar emisor al motor,171,198,202,276,65,164,1,Ilustración de «Asignar emisor al motor»,elite_i
+paginas/p09.png,9,pagina,04 Asignar emisor al motor,0,0,420,595,875,1241,524,Página 9 renderizada: Asignar emisor al motor (pasos con botones y respuestas),elite_i
+paginas/p10.png,10,pagina,05 Invertir el sentido de giro,0,0,420,595,875,1241,531,Página 10 renderizada: Invertir el sentido de giro (pasos con botones y respuestas),elite_i
+paginas/p12.png,12,pagina,06 Finales de carrera,0,0,420,595,875,1241,1009,Página 12 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i
+paginas/p14.png,14,pagina,06 Finales de carrera,0,0,420,595,875,1241,332,Página 14 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i
+imagenes/p15_img1.png,15,imagen,06 Finales de carrera,70,207,102,286,66,164,1,Ilustración de «Finales de carrera»,elite_i
+paginas/p15.png,15,pagina,06 Finales de carrera,0,0,420,595,875,1241,524,Página 15 renderizada: Finales de carrera (pasos con botones y respuestas),elite_i
+paginas/p16.png,16,pagina,07 Parada intermedia,0,0,420,595,875,1241,522,Página 16 renderizada: Parada intermedia (pasos con botones y respuestas),elite_i
+paginas/p17.png,17,pagina,07 Parada intermedia,0,0,420,595,875,1241,1343,Página 17 renderizada: Parada intermedia (pasos con botones y respuestas),elite_i
+paginas/p18.png,18,pagina,08 Emisores programados en el motor,0,0,420,595,875,1241,524,Página 18 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i
+paginas/p19.png,19,pagina,08 Emisores programados en el motor,0,0,420,595,875,1241,524,Página 19 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i
+paginas/p20.png,20,pagina,08 Emisores programados en el motor,0,0,420,595,875,1241,527,Página 20 renderizada: Emisores programados en el motor (pasos con botones y respuestas),elite_i
+paginas/p21.png,21,pagina,09 Hombre presente,0,0,420,595,875,1241,517,Página 21 renderizada: Hombre presente (pasos con botones y respuestas),elite_i
+paginas/p22.png,22,pagina,09 Hombre presente,0,0,420,595,875,1241,1041,Página 22 renderizada: Hombre presente (pasos con botones y respuestas),elite_i

@@ -1,0 +1,15 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,19,151,332,522,653,773,3,Portada: Motor Elite-i Box,elite_i_box
+imagenes/p06_img1.png,6,imagen,02 Emisores compatibles,313,125,363,214,105,185,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p06_img2.png,6,imagen,02 Emisores compatibles,228,466,355,521,116,263,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p06_img3.png,6,imagen,02 Emisores compatibles,59,466,181,521,116,252,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p06_img4.png,6,imagen,02 Emisores compatibles,36,308,118,391,173,173,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p06_img5.png,6,imagen,02 Emisores compatibles,173,308,256,390,173,172,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p06_img6.png,6,imagen,02 Emisores compatibles,289,305,392,393,214,184,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p06_img7.png,6,imagen,02 Emisores compatibles,51,96,98,243,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p06_img8.png,6,imagen,02 Emisores compatibles,183,96,230,244,98,308,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),elite_i_box
+imagenes/p07_img1.png,7,imagen,03 Conexiones,88,84,235,212,305,267,1,Esquema de conexionado,elite_i_box
+imagenes/p08_img1.png,8,imagen,04 Asignar emisor al motor,276,514,326,559,103,94,1,,
+imagenes/p10_img1.png,10,imagen,04 Asignar emisor al motor,268,198,300,276,65,164,1,Ilustración de «Asignar emisor al motor»,elite_i_box
+imagenes/p10_img2.png,10,imagen,04 Asignar emisor al motor,158,198,189,276,65,164,1,Ilustración de «Asignar emisor al motor»,elite_i_box
+imagenes/p14_img1.png,14,imagen,06 Finales de carrera,49,400,81,479,66,164,1,Ilustración de «Finales de carrera»,elite_i_box

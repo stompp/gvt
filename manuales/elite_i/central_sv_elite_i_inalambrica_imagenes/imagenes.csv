@@ -1,0 +1,11 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_img1.png,1,imagen,,150,181,270,446,451,998,1,,
+imagenes/p06_img1.png,6,imagen,02 Emisores compatibles,180,85,239,255,246,714,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),central_sv_elite_i_inalambrica
+imagenes/p07_img1.png,7,imagen,02 Emisores compatibles,44,129,196,471,602,1353,1,Foto de un emisor o automatismo compatible (sin identificar uno a uno),central_sv_elite_i_inalambrica
+imagenes/p10_img1.png,10,imagen,06 Programación de la central,297,399,329,472,114,255,1,Ilustración de «Programación de la central»,central_sv_elite_i_inalambrica
+imagenes/p10_img2.png,10,imagen,06 Programación de la central,340,422,378,446,128,80,1,Ilustración de «Programación de la central»,central_sv_elite_i_inalambrica
+imagenes/p10_img3.png,10,imagen,06 Programación de la central,60,394,91,472,112,282,1,Ilustración de «Programación de la central»,central_sv_elite_i_inalambrica
+imagenes/p12_img1.png,12,imagen,08 Activación del modo de funcionamiento,81,211,110,289,107,294,1,Ilustración de «Activación del modo de funcionamiento»,central_sv_elite_i_inalambrica
+imagenes/p13_img1.png,13,imagen,08 Activación del modo de funcionamiento,28,467,97,506,127,74,1,Ilustración de «Activación del modo de funcionamiento»,central_sv_elite_i_inalambrica
+imagenes/p13_img2.png,13,imagen,08 Activación del modo de funcionamiento,48,516,77,564,62,103,1,,
+imagenes/p13_img3.png,13,imagen,08 Activación del modo de funcionamiento,42,360,83,398,69,66,1,,

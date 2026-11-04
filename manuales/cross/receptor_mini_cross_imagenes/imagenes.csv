@@ -1,0 +1,38 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_zona1.png,1,zona,,44,179,376,445,694,554,9,Portada: receptor mini Cross,receptor_mini_cross
+imagenes/p02_img1.png,2,imagen,,20,439,60,480,166,172,1,Ilustración de la página de advertencias,receptor_mini_cross
+imagenes/p04_zona1.png,4,zona,,92,407,175,477,173,147,24,"Descripción: motor mecánico con receptor, emisor e inversor pulsador",receptor_mini_cross
+imagenes/p04_zona2.png,4,zona,,244,405,327,475,173,148,24,"Descripción: motor mecánico con receptor, emisor e inversor pulsador",receptor_mini_cross
+imagenes/p04_zona3.png,4,zona,,92,508,175,578,173,147,24,"Descripción: motor mecánico con receptor, emisor e inversor pulsador",receptor_mini_cross
+imagenes/p04_zona4.png,4,zona,,244,511,327,581,173,148,24,"Descripción: motor mecánico con receptor, emisor e inversor pulsador",receptor_mini_cross
+paginas/p04.png,4,pagina,,0,0,420,595,875,1241,142,"Descripción: motor mecánico con receptor, emisor e inversor pulsador (página entera)",receptor_mini_cross
+imagenes/p05_img1.png,5,imagen,,102,120,308,316,722,689,1,Receptor mini con cotas (50 × 50 × 26 mm) y botón S2,receptor_mini_cross
+imagenes/p06_zona1.png,6,zona,,276,452,400,500,258,102,3,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p06_zona2.png,6,zona,,35,433,102,513,139,168,6,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p06_img3.png,6,imagen,,113,79,162,230,177,545,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p06_img4.png,6,imagen,,252,79,305,230,200,561,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p06_img5.png,6,imagen,,25,283,129,373,434,375,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p06_img6.png,6,imagen,,164,283,269,373,434,375,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p06_img7.png,6,imagen,,294,283,398,373,434,375,1,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p06_zona8.png,6,zona,,155,449,266,503,233,114,8,"Emisores compatibles Cross (foto; ver la lista de la p. 6, sin identificar uno a uno)",receptor_mini_cross
+imagenes/p07_zona1.png,7,zona,,167,348,373,463,429,242,6,"Esquema de conexionado: tierra, neutro, marrón y negro (subida o bajada), motor e inversor pulsador",receptor_mini_cross
+imagenes/p07_zona2.png,7,zona,,202,85,347,224,304,291,5,"Esquema de conexionado: tierra, neutro, marrón y negro (subida o bajada), motor e inversor pulsador",receptor_mini_cross
+paginas/p07.png,7,pagina,,0,0,420,595,875,1241,174,"Esquema de conexionado: tierra, neutro, marrón y negro (subida o bajada), motor e inversor pulsador (página entera)",receptor_mini_cross
+imagenes/p08_img1.png,8,imagen,,312,323,341,409,121,360,1,"Funcionamiento: finales mecánicos en la cabeza del motor, inversor pulsador",receptor_mini_cross
+imagenes/p08_zona2.png,8,zona,,356,344,400,380,91,77,4,"Funcionamiento: finales mecánicos en la cabeza del motor, inversor pulsador",receptor_mini_cross
+imagenes/p08_img3.png,8,imagen,,338,445,371,478,117,117,1,"Funcionamiento: finales mecánicos en la cabeza del motor, inversor pulsador",receptor_mini_cross
+imagenes/p08_zona4.png,8,zona,,329,505,378,554,103,103,4,"Funcionamiento: finales mecánicos en la cabeza del motor, inversor pulsador",receptor_mini_cross
+imagenes/p08_zona5.png,8,zona,,314,228,400,282,180,113,6,"Funcionamiento: finales mecánicos en la cabeza del motor, inversor pulsador",receptor_mini_cross
+imagenes/p08_zona6.png,8,zona,,299,86,404,196,218,230,4,"Funcionamiento: finales mecánicos en la cabeza del motor, inversor pulsador",receptor_mini_cross
+imagenes/p09_zona1.png,9,zona,,338,139,400,202,130,132,2,"Programación: corriente ON, P2 ×2 y Subida",receptor_mini_cross
+imagenes/p09_zona2.png,9,zona,,329,506,391,569,131,132,2,"Programación: corriente ON, P2 ×2 y Subida",receptor_mini_cross
+imagenes/p09_zona3.png,9,zona,,316,383,355,479,82,201,2,"Programación: corriente ON, P2 ×2 y Subida",receptor_mini_cross
+imagenes/p09_zona4.png,9,zona,,368,383,406,479,81,201,2,"Programación: corriente ON, P2 ×2 y Subida",receptor_mini_cross
+imagenes/p09_zona5.png,9,zona,,319,265,349,357,62,190,6,"Programación: corriente ON, P2 ×2 y Subida",receptor_mini_cross
+imagenes/p09_zona6.png,9,zona,,371,265,400,357,62,190,6,"Programación: corriente ON, P2 ×2 y Subida",receptor_mini_cross
+imagenes/p11_zona1.png,11,zona,,297,81,327,172,62,190,6,"Copia de emisores (P2 ×2 en el programado, P2 en el nuevo)",receptor_mini_cross
+imagenes/p11_zona2.png,11,zona,,297,184,327,275,62,191,6,"Copia de emisores (P2 ×2 en el programado, P2 en el nuevo)",receptor_mini_cross
+imagenes/p11_img3.png,11,imagen,,339,283,384,329,164,170,1,"Copia de emisores (P2 ×2 en el programado, P2 en el nuevo)",receptor_mini_cross
+imagenes/p12_zona1.png,12,zona,,311,80,341,171,62,190,6,"Borrado completo (P2, Stop, P2)",receptor_mini_cross
+imagenes/p12_zona2.png,12,zona,,363,188,392,279,62,191,6,"Borrado completo (P2, Stop, P2)",receptor_mini_cross
+imagenes/p12_img3.png,12,imagen,,358,80,397,176,219,545,1,"Borrado completo (P2, Stop, P2)",receptor_mini_cross
