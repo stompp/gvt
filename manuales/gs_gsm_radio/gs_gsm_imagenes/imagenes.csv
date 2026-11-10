@@ -1,0 +1,18 @@
+archivo,pagina,tipo,seccion,x0,y0,x1,y1,ancho_px,alto_px,piezas,descripcion,articulos
+imagenes/p01_img1.png,1,imagen,,26,223,386,442,1499,913,1,"Portada: motores GS-10/17 S35, GSM-30/15 S45 y GS-20/15 S45 con sus etiquetas",60050130|60050141|60050134
+imagenes/p03_zona1.png,3,zona,,230,308,316,356,180,102,4,Pictograma: no lavar con agua a presión,gs|gsm
+imagenes/p03_zona2.png,3,zona,,103,309,189,358,180,101,4,Pictograma: no mojar el motor (lluvia),gs|gsm
+imagenes/p03_zona3.png,3,zona,,230,395,316,444,180,102,4,Pictograma: no taladrar el motor,gs|gsm
+imagenes/p03_zona4.png,3,zona,,103,391,189,440,180,101,4,Pictograma: no golpear el motor,gs|gsm
+imagenes/p03_img5.png,3,imagen,,230,467,316,516,358,202,1,Pictograma: cable del motor hacia arriba (NO),gs|gsm
+imagenes/p03_img6.png,3,imagen,,103,467,189,516,358,202,1,Pictograma: cable del motor hacia abajo (correcto),gs|gsm
+paginas/p03.png,3,pagina,,0,0,420,595,875,1241,140,Descripción del producto y pictogramas de advertencia,gs|gsm
+imagenes/p04_img1.png,4,imagen,,150,293,400,427,1042,556,1,Cabeza del motor GS con los tornillos de final de carrera,gs|gsm
+paginas/p04.png,4,pagina,,0,0,420,595,875,1241,165,"Esquema de conexión eléctrica: motor, inversor de pared y regleta de red (cables 1 a 5)",gs|gsm
+imagenes/p05_zona1.png,5,zona,,217,95,332,199,241,219,4,Dos motores mecánicos en paralelo a un solo pulsador (prohibido),gs|gsm
+imagenes/p05_img2.png,5,imagen,,217,249,332,312,480,262,1,Un motor mecánico con dos pulsadores en paralelo (prohibido),gs|gsm
+imagenes/p05_zona3.png,5,zona,,358,139,400,179,88,84,3,,
+imagenes/p05_zona4.png,5,zona,,358,292,400,332,88,83,3,,
+imagenes/p05_zona5.png,5,zona,,358,247,400,287,88,84,3,,
+imagenes/p05_zona6.png,5,zona,,239,401,398,526,332,263,5,Pulsar subida y bajada a la vez (prohibido),gs|gsm
+imagenes/p06_img1.png,6,imagen,,129,58,261,207,550,619,1,Cabeza del motor: tornillos A y B y sentidos de giro 1 y 2 para regular los finales de carrera,gs|gsm
